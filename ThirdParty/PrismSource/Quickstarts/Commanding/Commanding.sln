@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Desktop", "Desktop", "{1A092B81-837D-4F35-BA49-ECE4674E1606}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Silverlight", "Silverlight", "{A2B0F6D7-87E8-4895-926D-FCAC579B5696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commanding.Desktop", "Desktop\Commanding\Commanding.Desktop.csproj", "{1E2A9E02-ACEC-4BEE-AFF3-E7480723CAA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commanding.Modules.Order.Desktop", "Desktop\Commanding.OrderModule\Commanding.Modules.Order.Desktop.csproj", "{2FBD1FEC-7E2D-4157-9245-5267CB081482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commanding.Silverlight", "Silverlight\Commanding\Commanding.Silverlight.csproj", "{830CECB5-7552-4AC7-86C2-8A9FE1FF4DBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commanding.Modules.Order.Silverlight", "Silverlight\Commanding.OrderModule\Commanding.Modules.Order.Silverlight.csproj", "{BE5482C1-183A-4BA7-B9FD-7A73A10FFC10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E2A9E02-ACEC-4BEE-AFF3-E7480723CAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2A9E02-ACEC-4BEE-AFF3-E7480723CAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2A9E02-ACEC-4BEE-AFF3-E7480723CAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2A9E02-ACEC-4BEE-AFF3-E7480723CAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBD1FEC-7E2D-4157-9245-5267CB081482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBD1FEC-7E2D-4157-9245-5267CB081482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBD1FEC-7E2D-4157-9245-5267CB081482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBD1FEC-7E2D-4157-9245-5267CB081482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830CECB5-7552-4AC7-86C2-8A9FE1FF4DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830CECB5-7552-4AC7-86C2-8A9FE1FF4DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830CECB5-7552-4AC7-86C2-8A9FE1FF4DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830CECB5-7552-4AC7-86C2-8A9FE1FF4DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5482C1-183A-4BA7-B9FD-7A73A10FFC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5482C1-183A-4BA7-B9FD-7A73A10FFC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5482C1-183A-4BA7-B9FD-7A73A10FFC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5482C1-183A-4BA7-B9FD-7A73A10FFC10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1E2A9E02-ACEC-4BEE-AFF3-E7480723CAA3} = {1A092B81-837D-4F35-BA49-ECE4674E1606}
+		{2FBD1FEC-7E2D-4157-9245-5267CB081482} = {1A092B81-837D-4F35-BA49-ECE4674E1606}
+		{830CECB5-7552-4AC7-86C2-8A9FE1FF4DBF} = {A2B0F6D7-87E8-4895-926D-FCAC579B5696}
+		{BE5482C1-183A-4BA7-B9FD-7A73A10FFC10} = {A2B0F6D7-87E8-4895-926D-FCAC579B5696}
+	EndGlobalSection
+EndGlobal

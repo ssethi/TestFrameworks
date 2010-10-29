@@ -1,0 +1,8 @@
+<MVVM_Client_ViewModels:NumericQuestionViewModel 
+    xmlns:MVVM_Client_ViewModels="clr-namespace:MVVM.Client.ViewModels" 
+    xmlns:MVVM_Questionnaires_Model="clr-namespace:MVVM.Questionnaires.Model;assembly=MVVM.Questionnaires" 
+    HasChanges="False" ResponseComplete="True">
+    <MVVM_Client_ViewModels:NumericQuestionViewModel.Question>
+        <MVVM_Questionnaires_Model:NumericQuestion QuestionText="Praesent amet fusce ante accumsan" Response="15"/>
+    </MVVM_Client_ViewModels:NumericQuestionViewModel.Question>
+</MVVM_Client_ViewModels:NumericQuestionViewModel>

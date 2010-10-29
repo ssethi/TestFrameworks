@@ -1,0 +1,12 @@
+﻿<prism:ModuleCatalog
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:prism="clr-namespace:Microsoft.Practices.Prism.Modularity;assembly=Microsoft.Practices.Prism">
+
+	<!--This module catalog specifies a single module - EmployeeModule-->
+	<prism:ModuleInfo Ref="EmployeeModule.xap"
+                      ModuleName="UIComposition.EmployeeModule"
+                      ModuleType="UIComposition.EmployeeModule.ModuleInit, UIComposition.EmployeeModule, Version=1.0.0.0"
+                      InitializationMode="WhenAvailable" />
+
+</prism:ModuleCatalog>

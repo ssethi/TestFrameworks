@@ -1,0 +1,9 @@
+<RegionNavigation_Email_ViewModels:EmailViewModel xmlns:RegionNavigation_Email_ViewModels="clr-namespace:RegionNavigation.Email.ViewModels" xmlns:RegionNavigation_Email_Model="clr-namespace:RegionNavigation.Email.Model" xmlns:System="clr-namespace:System;assembly=mscorlib">
+	<RegionNavigation_Email_ViewModels:EmailViewModel.Email>
+		<RegionNavigation_Email_Model:EmailDocument From="Vestibulum aliquam integer nam" Subject="Cras class" Text="Quisque vivamus" To="Aenean duis">
+			<RegionNavigation_Email_Model:EmailDocument.Id>
+				<System:Guid/>
+			</RegionNavigation_Email_Model:EmailDocument.Id>
+		</RegionNavigation_Email_Model:EmailDocument>
+	</RegionNavigation_Email_ViewModels:EmailViewModel.Email>
+</RegionNavigation_Email_ViewModels:EmailViewModel>

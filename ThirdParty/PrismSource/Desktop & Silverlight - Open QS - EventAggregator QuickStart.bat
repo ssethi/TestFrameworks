@@ -1,0 +1,1 @@
+@call "Quickstarts\EventAggregation\EventAggregation.sln"

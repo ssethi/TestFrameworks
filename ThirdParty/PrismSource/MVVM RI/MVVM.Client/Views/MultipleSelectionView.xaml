@@ -1,0 +1,69 @@
+﻿<UserControl x:Class="MVVM.Client.Views.MultipleSelectionView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk"
+    xmlns:Behaviors="clr-namespace:MVVM.Client.Infrastructure.Behaviors"
+    xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:GuidanceTools="clr-namespace:Microsoft.Pratices.Prism.GuidanceTools;assembly=Microsoft.Pratices.Prism.GuidanceTools" mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400"
+    d:DataContext="{d:DesignData /SampleData/MultipleSelectionQuestionViewModelSampleData.xaml}">
+
+    <Grid Margin="5" d:DesignWidth="431" d:DesignHeight="353">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Column="0" Grid.Row="0" Text="{Binding Question.QuestionText}" Style="{StaticResource QuestionLabelStyle}" />
+        <GuidanceTools:InfoTipToggleButton  Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left">
+            <StackPanel MaxWidth="500">
+                <TextBlock TextWrapping="Wrap">This is a Multiple Selection Question.</TextBlock>
+                <TextBlock TextWrapping="Wrap"> • The choices are represented with a multiple-selection ListBox with a custom style which represents each choice with a CheckBox.</TextBlock>
+                <TextBlock TextWrapping="Wrap"> • The SynchronizeSelectedItems behavior synchronizes the selections in a multiple selection ListBox to the contents of a collection.</TextBlock>
+                <TextBlock TextWrapping="Wrap"> • The MaxSelections property of the MultipleSelectionQuestionTemplate model, determines the maximum number of selections that can be choosen.</TextBlock>
+                <TextBlock TextWrapping="Wrap"> • The ValidationSummary control and the ValidateObject behavior are used to show the validation errors because standard binding, and thus binding validation, is not supported for multiple-selection ListBoxes.</TextBlock>
+            </StackPanel>
+        </GuidanceTools:InfoTipToggleButton>
+        <Border Grid.ColumnSpan="2" Grid.Row="1" Style="{StaticResource BorderBrush}">
+            <ListBox Grid.Column="0" Grid.Row="1" IsTabStop="False" SelectionMode="Multiple"
+                     ItemsSource="{Binding Question.Range}" Margin="5">
+
+                <ListBox.ItemContainerStyle>
+                    <!-- Custom style to show the multi-selection list box as a collection of check boxes -->
+                    <Style TargetType="ListBoxItem">
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="ListBoxItem">
+                                    <Grid Background="Transparent">
+                                        <CheckBox IsChecked="{Binding IsSelected, RelativeSource={RelativeSource TemplatedParent}, Mode=TwoWay}" 
+                                                  IsHitTestVisible="False" IsTabStop="True"
+                                                  AutomationProperties.AutomationId="CheckBoxAutomationId">
+                                            <ContentPresenter/>
+                                        </CheckBox>
+                                    </Grid>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </ListBox.ItemContainerStyle>
+
+                <i:Interaction.Behaviors>
+                    <!-- Custom behavior that synchronizes the selected items with the view models collection -->
+                    <Behaviors:SynchronizeSelectedItems Selections="{Binding Selections}"/>
+                </i:Interaction.Behaviors>
+            </ListBox>
+        </Border>
+        <sdk:ValidationSummary Grid.ColumnSpan="2" Grid.Row="2">
+            <i:Interaction.Behaviors>
+                <!-- Custom behavior that feeds errors to a ValidationSummary -->
+                <Behaviors:ValidateObject Source="{Binding Question}" PropertyName="Response" />
+            </i:Interaction.Behaviors>
+        </sdk:ValidationSummary>
+    </Grid>
+</UserControl>

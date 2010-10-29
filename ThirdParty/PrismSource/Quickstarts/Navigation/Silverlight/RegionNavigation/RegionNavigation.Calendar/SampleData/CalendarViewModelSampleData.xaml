@@ -1,0 +1,114 @@
+<RegionNavigation_Calendar_ViewModels:CalendarViewModel xmlns:RegionNavigation_Calendar_ViewModels="clr-namespace:RegionNavigation.Calendar.ViewModels" xmlns:RegionNavigation_Calendar_Model="clr-namespace:RegionNavigation.Calendar.Model" xmlns:System="clr-namespace:System;assembly=mscorlib">
+	<RegionNavigation_Calendar_ViewModels:CalendarViewModel.Meetings>
+		<RegionNavigation_Calendar_Model:Meeting Description="Cras curabitur duis aliquam maecenas" Subject="Nunc aenean amet">
+			<RegionNavigation_Calendar_Model:Meeting.EndTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.EndTime>
+			<RegionNavigation_Calendar_Model:Meeting.EmailId>
+				<System:Guid/>
+			</RegionNavigation_Calendar_Model:Meeting.EmailId>
+			<RegionNavigation_Calendar_Model:Meeting.StartTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.StartTime>
+		</RegionNavigation_Calendar_Model:Meeting>
+		<RegionNavigation_Calendar_Model:Meeting Description="Class mauris" Subject="Ante curae nullam aptent arcu">
+			<RegionNavigation_Calendar_Model:Meeting.EndTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.EndTime>
+			<RegionNavigation_Calendar_Model:Meeting.EmailId>
+				<System:Guid/>
+			</RegionNavigation_Calendar_Model:Meeting.EmailId>
+			<RegionNavigation_Calendar_Model:Meeting.StartTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.StartTime>
+		</RegionNavigation_Calendar_Model:Meeting>
+		<RegionNavigation_Calendar_Model:Meeting Description="Integer nam" Subject="Auctor quisque">
+			<RegionNavigation_Calendar_Model:Meeting.EndTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.EndTime>
+			<RegionNavigation_Calendar_Model:Meeting.EmailId>
+				<System:Guid/>
+			</RegionNavigation_Calendar_Model:Meeting.EmailId>
+			<RegionNavigation_Calendar_Model:Meeting.StartTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.StartTime>
+		</RegionNavigation_Calendar_Model:Meeting>
+		<RegionNavigation_Calendar_Model:Meeting Description="Congue diam cursus" Subject="Phasellus vestibulum">
+			<RegionNavigation_Calendar_Model:Meeting.EndTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.EndTime>
+			<RegionNavigation_Calendar_Model:Meeting.EmailId>
+				<System:Guid/>
+			</RegionNavigation_Calendar_Model:Meeting.EmailId>
+			<RegionNavigation_Calendar_Model:Meeting.StartTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.StartTime>
+		</RegionNavigation_Calendar_Model:Meeting>
+		<RegionNavigation_Calendar_Model:Meeting Description="Donec sed vivamus consequat aliquam" Subject="Aliquet blandit">
+			<RegionNavigation_Calendar_Model:Meeting.EndTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.EndTime>
+			<RegionNavigation_Calendar_Model:Meeting.EmailId>
+				<System:Guid/>
+			</RegionNavigation_Calendar_Model:Meeting.EmailId>
+			<RegionNavigation_Calendar_Model:Meeting.StartTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.StartTime>
+		</RegionNavigation_Calendar_Model:Meeting>
+		<RegionNavigation_Calendar_Model:Meeting Description="Eget elit adipiscing" Subject="Dis etiam enim">
+			<RegionNavigation_Calendar_Model:Meeting.EndTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.EndTime>
+			<RegionNavigation_Calendar_Model:Meeting.EmailId>
+				<System:Guid/>
+			</RegionNavigation_Calendar_Model:Meeting.EmailId>
+			<RegionNavigation_Calendar_Model:Meeting.StartTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.StartTime>
+		</RegionNavigation_Calendar_Model:Meeting>
+		<RegionNavigation_Calendar_Model:Meeting Description="Est hac leo dictum" Subject="Convallis erat">
+			<RegionNavigation_Calendar_Model:Meeting.EndTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.EndTime>
+			<RegionNavigation_Calendar_Model:Meeting.EmailId>
+				<System:Guid/>
+			</RegionNavigation_Calendar_Model:Meeting.EmailId>
+			<RegionNavigation_Calendar_Model:Meeting.StartTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.StartTime>
+		</RegionNavigation_Calendar_Model:Meeting>
+		<RegionNavigation_Calendar_Model:Meeting Description="Praesent commodo" Subject="Eros fusce dignissim mus lectus">
+			<RegionNavigation_Calendar_Model:Meeting.EndTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.EndTime>
+			<RegionNavigation_Calendar_Model:Meeting.EmailId>
+				<System:Guid/>
+			</RegionNavigation_Calendar_Model:Meeting.EmailId>
+			<RegionNavigation_Calendar_Model:Meeting.StartTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.StartTime>
+		</RegionNavigation_Calendar_Model:Meeting>
+		<RegionNavigation_Calendar_Model:Meeting Description="Accumsan parturient bibendum" Subject="Dictumst eleifend facilisi nec lorem">
+			<RegionNavigation_Calendar_Model:Meeting.EndTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.EndTime>
+			<RegionNavigation_Calendar_Model:Meeting.EmailId>
+				<System:Guid/>
+			</RegionNavigation_Calendar_Model:Meeting.EmailId>
+			<RegionNavigation_Calendar_Model:Meeting.StartTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.StartTime>
+		</RegionNavigation_Calendar_Model:Meeting>
+		<RegionNavigation_Calendar_Model:Meeting Description="Morbi conubia cubilia" Subject="Faucibus habitant">
+			<RegionNavigation_Calendar_Model:Meeting.EndTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.EndTime>
+			<RegionNavigation_Calendar_Model:Meeting.EmailId>
+				<System:Guid/>
+			</RegionNavigation_Calendar_Model:Meeting.EmailId>
+			<RegionNavigation_Calendar_Model:Meeting.StartTime>
+				<System:DateTimeOffset/>
+			</RegionNavigation_Calendar_Model:Meeting.StartTime>
+		</RegionNavigation_Calendar_Model:Meeting>
+	</RegionNavigation_Calendar_ViewModels:CalendarViewModel.Meetings>
+</RegionNavigation_Calendar_ViewModels:CalendarViewModel>

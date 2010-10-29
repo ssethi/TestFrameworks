@@ -1,0 +1,1 @@
+@call "Quickstarts\Modularity\Silverlight\ModularityWithMef\ModularityWithMef.Silverlight.sln"

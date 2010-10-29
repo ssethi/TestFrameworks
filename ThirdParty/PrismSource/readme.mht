@@ -1,0 +1,4701 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01CB616D.AA6A8BF0"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Windows® Internet Explorer®.
+
+------=_NextPart_01CB616D.AA6A8BF0
+Content-Location: file:///C:/EA821E05/Readme.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 14">
+<meta name=3DOriginator content=3D"Microsoft Word 14">
+<link rel=3DFile-List href=3D"Readme_files/filelist.xml">
+<title>Prism 4 Readme</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>ndelgado</o:Author>
+  <o:LastAuthor>ndelgado</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>468</o:TotalTime>
+  <o:Created>2010-10-01T20:36:00Z</o:Created>
+  <o:LastSaved>2010-10-01T20:36:00Z</o:LastSaved>
+  <o:Pages>7</o:Pages>
+  <o:Words>2457</o:Words>
+  <o:Characters>14007</o:Characters>
+  <o:Company>Microsoft Corporation</o:Company>
+  <o:Lines>116</o:Lines>
+  <o:Paragraphs>32</o:Paragraphs>
+  <o:CharactersWithSpaces>16432</o:CharactersWithSpaces>
+  <o:Version>14.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=3DdataStoreItem href=3D"Readme_files/item0001.xml"
+target=3D"Readme_files/props002.xml">
+<link rel=3DdataStoreItem href=3D"Readme_files/item0003.xml"
+target=3D"Readme_files/props004.xml">
+<link rel=3DthemeData href=3D"Readme_files/themedata.thmx">
+<link rel=3DcolorSchemeMapping href=3D"Readme_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>JA</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val=3D"Cambria Math"/>
+   <m:brkBin m:val=3D"before"/>
+   <m:brkBinSub m:val=3D"&#45;-"/>
+   <m:smallFrac m:val=3D"off"/>
+   <m:dispDef/>
+   <m:lMargin m:val=3D"0"/>
+   <m:rMargin m:val=3D"0"/>
+   <m:defJc m:val=3D"centerGroup"/>
+   <m:wrapIndent m:val=3D"1440"/>
+   <m:intLim m:val=3D"subSup"/>
+   <m:naryLim m:val=3D"undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"true"
+  DefSemiHidden=3D"true" DefQFormat=3D"false" DefPriority=3D"99"
+  LatentStyleCount=3D"267">
+  <w:LsdException Locked=3D"false" Priority=3D"0" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Normal"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 9"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 9"/>
+  <w:LsdException Locked=3D"false" Priority=3D"35" QFormat=3D"true" Name=3D=
+"caption"/>
+  <w:LsdException Locked=3D"false" Priority=3D"10" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default Paragraph=
+ Font"/>
+  <w:LsdException Locked=3D"false" Priority=3D"11" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtitle"/>
+  <w:LsdException Locked=3D"false" Priority=3D"22" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Strong"/>
+  <w:LsdException Locked=3D"false" Priority=3D"20" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"59" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Table Grid"/>
+  <w:LsdException Locked=3D"false" UnhideWhenUsed=3D"false" Name=3D"Placeho=
+lder Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" UnhideWhenUsed=3D"false" Name=3D"Revisio=
+n"/>
+  <w:LsdException Locked=3D"false" Priority=3D"34" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"List Paragraph"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"30" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"19" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtle Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"21" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"31" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtle Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"32" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"37" Name=3D"Bibliography"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" QFormat=3D"true" Name=3D=
+"TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-alt:"\FF2D\FF33 \660E\671D";
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:"MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;
+	mso-font-alt:"\FF2D\FF33 \30B4\30B7\30C3\30AF";
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:"MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;
+	mso-font-alt:"\FF2D\FF33 \30B4\30B7\30C3\30AF";
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1073743103 0 0 415 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520092929 1073786111 9 0 415 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-520092929 1073806591 9 0 415 0;}
+@font-face
+	{font-family:"\@MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+h1
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 1 Char";
+	mso-style-next:Normal;
+	margin-top:24.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:14.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"MS Gothic";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#365F91;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-font-kerning:0pt;}
+h2
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 2 Char";
+	mso-style-next:Normal;
+	margin-top:10.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:13.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"MS Gothic";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#4F81BD;
+	mso-themecolor:accent1;}
+p.MsoToc1, li.MsoToc1, div.MsoToc1
+	{mso-style-update:auto;
+	mso-style-priority:39;
+	mso-style-next:Normal;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:5.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoToc2, li.MsoToc2, div.MsoToc2
+	{mso-style-update:auto;
+	mso-style-priority:39;
+	mso-style-next:Normal;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:5.0pt;
+	margin-left:11.0pt;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Comment Text Char";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+span.MsoCommentReference
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:15.0pt;
+	margin-left:0in;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	border:none;
+	mso-border-bottom-alt:solid #4F81BD 1.0pt;
+	mso-border-bottom-themecolor:accent1;
+	padding:0in;
+	mso-padding-alt:0in 0in 4.0pt 0in;
+	font-size:26.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"MS Gothic";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#17365D;
+	mso-themecolor:text2;
+	mso-themeshade:191;
+	letter-spacing:.25pt;
+	mso-font-kerning:14.0pt;}
+p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	border:none;
+	mso-border-bottom-alt:solid #4F81BD 1.0pt;
+	mso-border-bottom-themecolor:accent1;
+	padding:0in;
+	mso-padding-alt:0in 0in 4.0pt 0in;
+	font-size:26.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"MS Gothic";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#17365D;
+	mso-themecolor:text2;
+	mso-themeshade:191;
+	letter-spacing:.25pt;
+	mso-font-kerning:14.0pt;}
+p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	border:none;
+	mso-border-bottom-alt:solid #4F81BD 1.0pt;
+	mso-border-bottom-themecolor:accent1;
+	padding:0in;
+	mso-padding-alt:0in 0in 4.0pt 0in;
+	font-size:26.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"MS Gothic";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#17365D;
+	mso-themecolor:text2;
+	mso-themeshade:191;
+	letter-spacing:.25pt;
+	mso-font-kerning:14.0pt;}
+p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:15.0pt;
+	margin-left:0in;
+	mso-add-space:auto;
+	mso-pagination:widow-orphan;
+	border:none;
+	mso-border-bottom-alt:solid #4F81BD 1.0pt;
+	mso-border-bottom-themecolor:accent1;
+	padding:0in;
+	mso-padding-alt:0in 0in 4.0pt 0in;
+	font-size:26.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"MS Gothic";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#17365D;
+	mso-themecolor:text2;
+	mso-themeshade:191;
+	letter-spacing:.25pt;
+	mso-font-kerning:14.0pt;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{mso-style-priority:11;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Subtitle Char";
+	mso-style-next:Normal;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"MS Gothic";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#4F81BD;
+	mso-themecolor:accent1;
+	letter-spacing:.75pt;
+	font-style:italic;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	mso-themecolor:hyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"Comment Text";
+	mso-style-link:"Comment Subject Char";
+	mso-style-next:"Comment Text";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	font-weight:bold;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:.5in;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParag=
+raphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListPar=
+agraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagra=
+phCxSpLast
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:.5in;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 1";
+	mso-ansi-font-size:14.0pt;
+	mso-bidi-font-size:14.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"MS Gothic";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#365F91;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	font-weight:bold;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 2";
+	mso-ansi-font-size:13.0pt;
+	mso-bidi-font-size:13.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"MS Gothic";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#4F81BD;
+	mso-themecolor:accent1;
+	font-weight:bold;}
+span.CommentTextChar
+	{mso-style-name:"Comment Text Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Comment Text";
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+span.CommentSubjectChar
+	{mso-style-name:"Comment Subject Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-parent:"Comment Text Char";
+	mso-style-link:"Comment Subject";
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Balloon Text";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-ascii-font-family:Tahoma;
+	mso-hansi-font-family:Tahoma;
+	mso-bidi-font-family:Tahoma;}
+span.TitleChar
+	{mso-style-name:"Title Char";
+	mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Title;
+	mso-ansi-font-size:26.0pt;
+	mso-bidi-font-size:26.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"MS Gothic";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#17365D;
+	mso-themecolor:text2;
+	mso-themeshade:191;
+	letter-spacing:.25pt;
+	mso-font-kerning:14.0pt;}
+span.SubtitleChar
+	{mso-style-name:"Subtitle Char";
+	mso-style-priority:11;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Subtitle;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"MS Gothic";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#4F81BD;
+	mso-themecolor:accent1;
+	letter-spacing:.75pt;
+	font-style:italic;}
+p.Code, li.Code, div.Code
+	{mso-style-name:Code;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	background:#F7F7FF;
+	font-size:10.0pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:24912466;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1385928698 67698689 67698691 67698693 67698689 6769=
+8691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l1
+	{mso-list-id:60106741;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1290023470 67698689 67698691 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.5in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.0in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.5in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.0in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.5in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.0in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.5in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:5.0in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l2
+	{mso-list-id:124550536;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1229116926 67698689 67698691 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l3
+	{mso-list-id:199587974;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1343374878 1180478666 67698691 67698693 67698689 676=
+98691 67698693 67698689 67698691 67698693;}
+@list l3:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+@list l3:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l3:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l3:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l3:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l3:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.25in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l3:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l3:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.25in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l3:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.75in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l4
+	{mso-list-id:253443356;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1447449840 67698703 67698713 67698715 67698703 67698=
+713 67698715 67698703 67698713 67698715;}
+@list l4:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l4:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l4:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l5
+	{mso-list-id:357246209;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1451986226 67698703 67698713 67698715 67698703 6769=
+8713 67698715 67698703 67698713 67698715;}
+@list l5:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l5:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l5:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l6
+	{mso-list-id:429545208;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1447449840 67698703 67698713 67698715 67698703 67698=
+713 67698715 67698703 67698713 67698715;}
+@list l6:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l6:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l6:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l7
+	{mso-list-id:440682704;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1420603686 1180478666 67698691 67698693 67698689 676=
+98691 67698693 67698689 67698691 67698693;}
+@list l7:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+@list l7:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.5in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l7:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.0in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l7:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.5in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l7:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.0in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l7:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.5in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l7:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.0in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l7:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.5in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l7:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:5.0in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l8
+	{mso-list-id:465516364;
+	mso-list-type:hybrid;
+	mso-list-template-ids:639689678 67698703 67698691 67698693 67698689 676986=
+91 67698693 67698689 67698691 67698693;}
+@list l8:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l8:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l8:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l8:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l8:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l8:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l8:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l8:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l9
+	{mso-list-id:484668611;
+	mso-list-type:hybrid;
+	mso-list-template-ids:639689678 67698703 67698691 67698693 67698689 676986=
+91 67698693 67698689 67698691 67698693;}
+@list l9:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l9:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l9:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l9:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l9:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l9:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l9:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l9:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l9:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l10
+	{mso-list-id:548036067;
+	mso-list-type:hybrid;
+	mso-list-template-ids:778308260 67698691 67698691 67698693 67698689 676986=
+91 67698693 67698689 67698691 67698693;}
+@list l10:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l10:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l10:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l10:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l10:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l10:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l10:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l10:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l10:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l11
+	{mso-list-id:691808790;
+	mso-list-type:hybrid;
+	mso-list-template-ids:639689678 67698703 67698691 67698693 67698689 676986=
+91 67698693 67698689 67698691 67698693;}
+@list l11:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l11:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l11:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l11:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l11:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l11:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l11:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l11:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l12
+	{mso-list-id:696779335;
+	mso-list-type:hybrid;
+	mso-list-template-ids:639689678 67698703 67698691 67698693 67698689 676986=
+91 67698693 67698689 67698691 67698693;}
+@list l12:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l12:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l12:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l12:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l12:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l12:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l12:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l12:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l12:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l13
+	{mso-list-id:1003699907;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-267904406 67698689 67698691 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l13:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l13:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l13:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l13:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l13:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l13:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.25in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l13:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l13:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.25in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l13:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.75in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l14
+	{mso-list-id:1009721744;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-2078119252 67698689 67698691 67698693 67698689 6769=
+8691 67698693 67698689 67698691 67698693;}
+@list l14:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l14:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l14:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l14:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l14:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l14:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l14:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l14:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l14:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l15
+	{mso-list-id:1045984002;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1902190858 1180478666 67698691 67698703 67698689 67=
+698691 67698693 67698689 67698691 67698693;}
+@list l15:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+@list l15:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l15:level3
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l15:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l15:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l15:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l15:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l15:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l15:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l16
+	{mso-list-id:1143542240;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1447449840 67698703 67698713 67698715 67698703 67698=
+713 67698715 67698703 67698713 67698715;}
+@list l16:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l16:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l16:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l16:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l16:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l16:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l16:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l16:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l16:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l17
+	{mso-list-id:1145782938;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1791187338 67698703 67698689 67698715 67698703 6769=
+8713 67698715 67698703 67698713 67698715;}
+@list l17:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l17:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l17:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l17:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l17:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l17:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l17:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l17:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l17:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l18
+	{mso-list-id:1217474146;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1422920446 67698689 67698691 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l18:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l18:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l18:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l18:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l18:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l18:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l18:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.25in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l18:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l18:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.25in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l19
+	{mso-list-id:1225944042;
+	mso-list-type:hybrid;
+	mso-list-template-ids:2094584908 67698689 67698691 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l19:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l19:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l19:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l19:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l19:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l19:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l19:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l19:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l19:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l20
+	{mso-list-id:1332372807;
+	mso-list-type:hybrid;
+	mso-list-template-ids:2004397392 67698689 67698691 1475885210 67698689 676=
+98691 67698693 67698689 67698691 67698693;}
+@list l20:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l20:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l20:level3
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:-;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+@list l20:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l20:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l20:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l20:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l20:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l20:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l21
+	{mso-list-id:1418747923;
+	mso-list-type:hybrid;
+	mso-list-template-ids:2106646 1180478666 67698691 67698693 67698689 676986=
+91 67698693 67698689 67698691 67698693;}
+@list l21:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+@list l21:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l21:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l21:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l21:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l21:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l21:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l21:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l21:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l22
+	{mso-list-id:1598948871;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1211149394 67698703 67698713 67698715 67698703 67698=
+713 67698715 67698703 67698713 67698715;}
+@list l22:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l22:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l22:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l22:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l22:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l22:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l22:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l22:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l22:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l23
+	{mso-list-id:1601136331;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1447449840 67698703 67698713 67698715 67698703 67698=
+713 67698715 67698703 67698713 67698715;}
+@list l23:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l23:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l23:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l23:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l23:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l23:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l23:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l23:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l23:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l24
+	{mso-list-id:1643341592;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-981287442 1180478666 67698691 67698693 67698689 676=
+98691 67698693 67698689 67698691 67698693;}
+@list l24:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:•;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+@list l24:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l24:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l24:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l24:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l24:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l24:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l24:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l24:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l25
+	{mso-list-id:1785924959;
+	mso-list-type:hybrid;
+	mso-list-template-ids:739688822 67698703 67698713 67698715 67698703 676987=
+13 67698715 67698703 67698713 67698715;}
+@list l25:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l25:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l25:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l25:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l25:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l25:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l25:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l25:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l25:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l26
+	{mso-list-id:1879707176;
+	mso-list-type:hybrid;
+	mso-list-template-ids:639689678 67698703 67698691 67698693 67698689 676986=
+91 67698693 67698689 67698691 67698693;}
+@list l26:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l26:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l26:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l26:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l26:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l26:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l26:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l26:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l26:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l27
+	{mso-list-id:2043246050;
+	mso-list-type:hybrid;
+	mso-list-template-ids:639689678 67698703 67698691 67698693 67698689 676986=
+91 67698693 67698689 67698691 67698693;}
+@list l27:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l27:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l27:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l27:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l27:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l27:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l27:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l27:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l27:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-priority:59;
+	mso-style-unhide:no;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple style=3D'tab-interval:.5in'>
+
+<div class=3DWordSection1>
+
+<div style=3D'mso-element:para-border-div;border:none;border-bottom:solid #=
+4F81BD 1.0pt;
+mso-border-bottom-themecolor:accent1;padding:0in 0in 4.0pt 0in'>
+
+<p class=3DMsoTitle>Prism 4.0 Readme file </p>
+
+</div>
+
+<p class=3DMsoNormal>Drop 9 – October 4, 2010</p>
+
+<p class=3DMsoToc1 style=3D'tab-stops:right dotted 467.5pt'><!--[if support=
+Fields]><span
+style=3D'mso-element:field-begin'></span><span
+style=3D'mso-spacerun:yes'> </span>TOC \o &quot;1-2&quot; \h \z \u <span
+style=3D'mso-element:field-separator'></span><![endif]--><a href=3D"#_Toc27=
+3626991"><span
+style=3D'mso-no-proof:yes'>DROP INFORMATION</span><span style=3D'color:wind=
+owtext;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-tab-count:1 dotted'>.. </span></span><!--[if suppo=
+rtFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273626991 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>1<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320036003900390031000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc2 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273626992"><span
+style=3D'mso-no-proof:yes'>What's Included in This Drop</span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-tab-count:1 do=
+tted'>. </span></span><!--[if supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273626992 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>1<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320036003900390032000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc2 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273626993"><span
+style=3D'mso-no-proof:yes'>Major Changes in This Drop</span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-tab-count:1 do=
+tted'>. </span></span><!--[if supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273626993 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>2<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320036003900390033000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc1 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273626994"><span
+style=3D'mso-no-proof:yes'>INSTALLING PRISM</span><span style=3D'color:wind=
+owtext;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-tab-count:1 dotted'>.. </span></span><!--[if suppo=
+rtFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273626994 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>3<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320036003900390034000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc2 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273626995"><span
+style=3D'mso-no-proof:yes'>Step 1: Install System Requirements</span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-tab-count:1 do=
+tted'>. </span></span><!--[if supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273626995 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>3<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320036003900390035000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc2 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273626996"><span
+style=3D'mso-no-proof:yes'>Step 2: Extract the Prism Source Code, Binaries,=
+ and
+Documentation</span><span style=3D'color:windowtext;display:none;mso-hide:s=
+creen;
+mso-no-proof:yes;text-decoration:none;text-underline:none'><span
+style=3D'mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><sp=
+an
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273626996 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>3<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320036003900390036000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc2 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273626997"><span
+style=3D'mso-no-proof:yes'>Step 3 (optional): Register the Prism Library Bi=
+naries
+with Visual Studio</span><span style=3D'color:windowtext;display:none;mso-h=
+ide:
+screen;mso-no-proof:yes;text-decoration:none;text-underline:none'><span
+style=3D'mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><sp=
+an
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273626997 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>3<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320036003900390037000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc1 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273626998"><span
+style=3D'mso-no-proof:yes'>QUICKSTARTS</span><span style=3D'color:windowtex=
+t;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-tab-count:1 dotted'>. </span></span><!--[if suppor=
+tFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273626998 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>4<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320036003900390038000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc2 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273626999"><span
+style=3D'mso-no-proof:yes'>Basic MVVM QuickStart</span><span style=3D'color=
+:windowtext;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-tab-count:1 dotted'> </span></span><!--[if support=
+Fields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273626999 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>4<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320036003900390039000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc2 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273627000"><span
+style=3D'mso-no-proof:yes'>MVVM QuickStart</span><span style=3D'color:windo=
+wtext;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-tab-count:1 dotted'> </span></span><!--[if support=
+Fields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273627000 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>4<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320037003000300030000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc2 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273627001"><span
+style=3D'mso-no-proof:yes'>Modularity QuickStarts</span><span style=3D'colo=
+r:windowtext;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-tab-count:1 dotted'>. </span></span><!--[if suppor=
+tFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273627001 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>4<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320037003000300031000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc2 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273627002"><span
+style=3D'mso-no-proof:yes'>State-based Navigation QuickStart</span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-tab-count:1 do=
+tted'> </span></span><!--[if supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273627002 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>5<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320037003000300032000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc2 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273627003"><span
+style=3D'mso-no-proof:yes'>Navigation QuickStart</span><span style=3D'color=
+:windowtext;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-tab-count:1 dotted'> </span></span><!--[if support=
+Fields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273627003 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>6<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320037003000300033000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc1 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273627004"><span
+style=3D'mso-no-proof:yes'>REFERENCE IMPLEMENTATIONS</span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-tab-count:1 do=
+tted'>. </span></span><!--[if supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273627004 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>6<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320037003000300034000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc2 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273627005"><span
+style=3D'mso-no-proof:yes'>MVVM RI</span><span style=3D'color:windowtext;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-tab-count:1 dotted'> </span></span><!--[if support=
+Fields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273627005 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>6<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320037003000300035000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc2 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273627006"><span
+style=3D'mso-no-proof:yes'>Stock Trader RI</span><span style=3D'color:windo=
+wtext;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-tab-count:1 dotted'> </span></span><!--[if support=
+Fields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273627006 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>6<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320037003000300036000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc1 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273627007"><span
+style=3D'mso-no-proof:yes'>MORE INFORMATION</span><span style=3D'color:wind=
+owtext;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-tab-count:1 dotted'>.. </span></span><!--[if suppo=
+rtFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273627007 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>7<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320037003000300037000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc2 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c373627007"><span
+style=3D'mso-no-proof:yes'>UpdatePrismBinaries.bat</span><span style=3D'color:windowte=
+xt;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-tab-count:1 dotted'>. </span></span><!--[if suppor=
+tFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273627008 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>7<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320037003000300038000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+
+<p class=3DMsoToc2 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273627008"><span
+style=3D'mso-no-proof:yes'>Known Issues</span><span style=3D'color:windowte=
+xt;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-tab-count:1 dotted'>. </span></span><!--[if suppor=
+tFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273627008 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>7<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320037003000300038000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<p class=3DMsoToc1 style=3D'tab-stops:right dotted 467.5pt'><a href=3D"#_To=
+c273627009"><span
+style=3D'mso-no-proof:yes'>Prism Library and Code Access Security</span><sp=
+an
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-tab-count:1 do=
+tted'>. </span></span><!--[if supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'><span style=3D'mso-element:field-=
+begin'></span>
+PAGEREF _Toc273627009 \h <span style=3D'mso-element:field-separator'></span=
+></span><![endif]--><span
+style=3D'color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+text-decoration:none;text-underline:none'>7<!--[if gte mso 9]><xml>
+ <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F005400=
+6F0063003200370033003600320037003000300039000000</w:data>
+</xml><![endif]--></span><!--[if supportFields]><span style=3D'color:window=
+text;
+display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-und=
+erline:
+none'><span style=3D'mso-element:field-end'></span></span><![endif]--></a><=
+span
+style=3D'mso-fareast-font-family:"MS Mincho";mso-fareast-theme-font:minor-f=
+areast;
+mso-no-proof:yes'><o:p></o:p></span></p>
+
+<h1><!--[if supportFields]><span style=3D'mso-element:field-end'></span><![=
+endif]--><a
+name=3D"_Toc273626991">DROP INFORMATION</a></h1>
+
+<h2><a name=3D"_Toc273626992">What's Included in This Drop</a></h2>
+
+<p class=3DMsoNormal>The following assets are being shipped in the current =
+drop:</p>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-.25in;mso-list:l=
+20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Signed Prism Library for Windows Presentation
+Foundation (WPF) and Silverlight</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Signed Prism Library for Windows Phone 7</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Batch file to create custom Prism Library bi=
+naries
+</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Batch file to register the Prism Library bin=
+aries
+with Visual Studio</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Model-View-ViewModel Reference Implementation
+(MVVM RI)</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Stock Trader Reference Implementation (Stock
+Trader RI)</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Prism 4.0 Documentation (work-in-progress)</=
+p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>QuickStarts:</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:1.0in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l20 level2 lfo1'><![if !supportLists]><span
+style=3D'font-family:"Courier New";mso-fareast-font-family:"Courier New"'><=
+span
+style=3D'mso-list:Ignore'>o<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;
+</span></span></span><![endif]>New or updated QuickStarts in Prism 4.0:</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:1.5in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l20 level3 lfo1'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Basic MVVM QuickStart</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:1.5in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l20 level3 lfo1'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>MVVM QuickStart</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:1.5in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l20 level3 lfo1'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Modularity QuickStarts (with MEF and Unity)<=
+/p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:1.5in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l20 level3 lfo1'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>State-Based Navigation QuickStart</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:1.5in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l20 level3 lfo1'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>View-Switching Navigation QuickStart</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:1.5in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l20 level3 lfo1'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>UI Composition QuickStart</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:1.0in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l20 level2 lfo1'><![if !supportLists]><span
+style=3D'font-family:"Courier New";mso-fareast-font-family:"Courier New"'><=
+span
+style=3D'mso-list:Ignore'>o<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;
+</span></span></span><![endif]>QuickStarts ported from Prism 2.x:</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:1.5in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l20 level3 lfo1'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Commanding QuickStarts</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:1.5in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l20 level3 lfo1'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Event Aggregation QuickStarts</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:1.5in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l20 level3 lfo1'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Hello World QuickStarts</p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'margin-left:1.5in;mso-add-spac=
+e:auto;
+text-indent:-.25in;mso-list:l20 level3 lfo1'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Multi-Targeting QuickStarts</p>
+
+<p class=3DMsoNormal>With the exception of the MVVM, Navigation, and UI
+Composition QuickStarts, there are two solutions for each QuickStart, one
+targeting the desktop and one targeting Silverlight.</p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Note</b>: For
+information about using the Prism Phone Library, see the Windows Phone 7
+Developer Guide here: <a href=3D"http://wp7guide.codeplex.com/">http://wp7g=
+uide.codeplex.com/</a>.</p>
+
+<h2><a name=3D"_Toc273626993">Major Changes in This Drop</a></h2>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-.25in;mso-list:l=
+20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>The Prism License has changed to the Microso=
+ft
+patterns &amp; practices license. Please see <a
+href=3D"http://compositewpf.codeplex.com/license">http://compositewpf.codep=
+lex.com/license</a>
+for details. It is also included in EULA.txt in the root Prism folder.</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>The Prism Library 4.0 code base, reference
+implementations, and QuickStarts are now code complete.</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>The Prism binaries are now included with the
+drop and are located in the bin folders. All projects consuming the Prism
+binaries now look for them at {prism}\Source\bin\[platform]</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>The Prism binaries can be rebuilt using the =
+UpdatePrismBinaries.bat
+batch file located in the source folder.<span style=3D'mso-spacerun:yes'> 
+</span></p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>The Prism binaries can be registered with Vi=
+sual
+Studio using the RegisterPrismBinaries.bat batch file located in the source
+folder.</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Consolidated and simplified the <span
+class=3DSpellE>ViewInjection</span> and <span class=3DSpellE>ViewDiscovery<=
+/span> <span
+class=3DSpellE>QuickStarts</span> into a single <span class=3DSpellE>QuickS=
+tart</span>
+called <span class=3DSpellE>UIComposition</span> <span class=3DSpellE>Quick=
+Start</span>.</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>The <span class=3DSpellE>Moq</span> binaries=
+ are
+now included with Prism source code.</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:1.0in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l20 level2 lfo1'><![if !supportLists]><span
+style=3D'font-family:"Courier New";mso-fareast-font-family:"Courier New"'><=
+span
+style=3D'mso-list:Ignore'>o<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;
+</span></span></span><![endif]><span class=3DSpellE>Moq</span> binaries for=
+ WPF are
+in the {prism}\Lib\Desktop\<span class=3DSpellE>Moq</span> folder </p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:1.0in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l20 level2 lfo1'><![if !supportLists]><span
+style=3D'font-family:"Courier New";mso-fareast-font-family:"Courier New"'><=
+span
+style=3D'mso-list:Ignore'>o<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;
+</span></span></span><![endif]><span class=3DSpellE>Moq</span> binaries for
+Silverlight are in the {prism}\Lib\Silverlight\<span class=3DSpellE>Moq</sp=
+an>
+folder</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Prism introduces a new <span class=3DSpellE>=
+<b
+style=3D'mso-bidi-font-weight:normal'>RegionMemberLifetimeBehavior</b></spa=
+n>
+that removes views from a region when they become deactivated. Either the v=
+iew
+or its view model can opt in to this by using the <span class=3DSpellE><b
+style=3D'mso-bidi-font-weight:normal'>RegionMemberLifetimeAttribute</b></sp=
+an> or
+the <span class=3DSpellE><b style=3D'mso-bidi-font-weight:normal'>IRegionMe=
+mberLifetime</b></span>
+interface. For more information, see the <span class=3DSpellE><b
+style=3D'mso-bidi-font-weight:normal'>RegionMemberLifetimeBehavior</b></spa=
+n> in
+the Prism4APIReference-Desktop.chm or Prism4APIReference-Silverlight.chm.</=
+p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span class=3DSpellE><b style=3D'mso-bidi-fo=
+nt-weight:
+normal'>IActiveAware</b></span> is now automatically checked on the view mo=
+del
+as well as the view by the <span class=3DSpellE><b style=3D'mso-bidi-font-w=
+eight:
+normal'>RegionActiveAwareBehavior</b></span>.</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l20 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Bug fixes</p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-.25in;mso-list:l2=
+0 level1 lfo1'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Finished converting the <span class=3DSpellE=
+>StockTraderRI</span>
+to MEF and update for consistency with MVVM guidance.</p>
+
+<h1><a name=3D"_Toc273626994"></a><a name=3D"_INSTALLING_AND_COMPILING"></a=
+><a
+name=3DInstallingPrism></a><span style=3D'mso-bookmark:_Toc273626994'>INSTA=
+LLING
+PRISM</span></h1>
+
+<h2><a name=3D"_Toc273626995">Step 1: Install System Requirements</a> </h2>
+
+<p class=3DMsoNormal>This guidance was designed to run on the Microsoft Win=
+dows
+7, Windows Vista, Windows XP Professional, Windows Server 2003, or Windows =
+Server
+2008 operating system. WPF applications built using this guidance require t=
+he
+.NET Framework 4.0 and Silverlight requires Silverlight 4. </p>
+
+<p class=3DMsoNormal>Before you can use the Prism Library, the following mu=
+st be
+installed:</p>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'margin-left:.75in;mso-add-spa=
+ce:auto;
+text-indent:-.25in;mso-list:l3 level1 lfo5'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>•<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Microsoft Visual Studio 2010</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:.75in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l3 level1 lfo5'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>•<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><a
+href=3D"http://www.microsoft.com/downloads/details.aspx?familyid=3D9CFB2D51=
+-5FF4-4491-B0E5-B386F32C0992&amp;displaylang=3Den">Microsoft
+.NET Framework 4.0 (the .NET Framework 4.0 includes WPF)</a> </p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:.75in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l3 level1 lfo5'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>•<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><a href=3D"http://www.microsoft.com/silverli=
+ght/">Microsoft
+Silverlight 4 (this is required only if you are creating Silverlight
+applications)</a></p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:.75in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l3 level1 lfo5'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>•<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><a
+href=3D"http://www.microsoft.com/downloads/en/details.aspx?FamilyID=3Db3deb=
+194-ca86-4fb6-a716-b67c2604a139&amp;displayLang=3Den">Microsoft
+Silverlight 4 Tools for Visual Studio 2010</a> (This is required only if you
+are creating Silverlight applications, however, updates to the WPF and
+Silverlight Designer for Visual Studio 2010 are also included in this downl=
+oad,
+so you would benefit from this whether you are building Silverlight or WPF
+applications.)</p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'margin-left:.75in;mso-add-spac=
+e:auto;
+text-indent:-.25in;mso-list:l3 level1 lfo5'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>•<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Optionally install <a
+href=3D"http://www.microsoft.com/expression/products/Blend_Overview.aspx">M=
+icrosoft
+Expression Blend 4</a></p>
+
+<h2><a name=3D"_Toc273626996">Step 2: Extract the Prism Source Code, Binari=
+es,
+and Documentation</a></h2>
+
+<p class=3DMsoNormal>To install the Prism assets, right click on the Prism.=
+Source.exe
+file and select &quot;Run as administrator.&quot; This will extract the sou=
+rce code,
+binaries, and documentation into the folder of your choice. <a
+name=3D"_1.5_Compiling_the"></a>The Prism Library assemblies will be placed=
+ in
+these folders:</p>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'margin-left:1.0in;mso-add-spa=
+ce:auto;
+text-indent:-.25in;mso-list:l17 level2 lfo28'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>{prism}\Source\bin\Desktop </p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:1.0in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l17 level2 lfo28'><![if !supportLists]><sp=
+an
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>{prism}\Source\bin\Silverlight</p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'margin-left:1.0in;mso-add-spac=
+e:auto;
+text-indent:-.25in;mso-list:l17 level2 lfo28'><![if !supportLists]><span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>·<span style=3D'font:7.0pt "Times N=
+ew Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>{prism}\Source\bin\Phone</p>
+
+<h2><a name=3D"_Toc273626997">Step 3 (optional): Register the Prism Library=
+ Binaries
+with Visual Studio</a></h2>
+
+<p class=3DMsoNormal>To register the Prism Library binaries, launch the Reg=
+isterPrismBinaries.bat
+batch file located in the {prism}\Source folder. This batch file creates a
+temporary .<span class=3DSpellE>reg</span> file with the information requir=
+ed to
+register the Desktop, Silverlight, and Phone binaries, and uses it to updat=
+e the
+registry. Because updating the registry is a privileged operation, a UAC pr=
+ompt
+will appear if you do not have elevated <span class=3DSpellE>privalages</sp=
+an>.
+For additional information about UAC, see <a
+href=3D"http://windows.microsoft.com/en-US/windows7/What-is-User-Account-Co=
+ntrol">http://windows.microsoft.com/en-US/windows7/What-is-User-Account-Con=
+trol</a>.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'> </span>After the bin=
+aries
+are registered, they will be available for selection in the &quot;Add Refer=
+ences&quot;
+dialog in Visual Studio. Note that at most one copy of the binaries can be
+registered using the script; if multiple copies of the Prism Library are re=
+gistered,
+only the binaries for the last registered copy will be available in Visual
+Studio.</p>
+
+<h1><a name=3D"_Toc273626998">QUICKSTARTS</a></h1>
+
+<h2><a name=3D"_Toc273626999">Basic MVVM QuickStart</a></h2>
+
+<p class=3DMsoNormal>The Basic MVVM QuickStart demonstrates how to build a =
+very
+simple application that implements the MVVM UI Design pattern. This is prov=
+ided
+to help you learn the basic concepts of the MVVM pattern.</p>
+
+<p class=3DMsoNormal>The Basic MVVM QuickStart represents a subset of a sur=
+vey
+application. A survey with different types of questions is shown; after the
+questionnaire is completed, it can be submitted. The user can also choose to
+reset the answers to the questions.</p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>To run the Ba=
+sic MVVM
+QuickStart:<o:p></o:p></b></p>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-.25in;mso-list:l=
+6 level1 lfo16'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>1.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>You must have completed the steps in <a
+href=3D"#InstallingPrism">Installing Prism</a>.</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l6 level1 lfo16'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>2.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>In Windows Explorer, double-click the follow=
+ing
+batch file to open the solution in Visual Studio: <b style=3D'mso-bidi-font=
+-weight:
+normal'>Silverlight Only - Basic MVVM QuickStart.bat</b></p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l6 level1 lfo16'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>3.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Set the <span class=3DSpellE>BasicMVVMApp.We=
+b</span>
+project as the startup project.</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l6 level1 lfo16'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>4.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Set BasicMVVMAppTestPage.html as the start p=
+age.</p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-.25in;mso-list:l6=
+ level1 lfo16'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>5.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Press F5.</p>
+
+<h2><a name=3D"_Toc273627000">MVVM QuickStart</a></h2>
+
+<p class=3DMsoNormal>The MVVM QuickStart demonstrates how to build an appli=
+cation
+that implements the MVVM UI Design pattern, showing some of the more common=
+ programming
+tasks that developers can face, such as validation, UI interactions, and da=
+ta
+templates.</p>
+
+<p class=3DMsoNormal>The MVVM QuickStart represents a subset of a survey
+application. A survey with different types of questions is shown; after the
+questionnaire is completed, it can be submitted. The user can also choose to
+reset the answers to the questions.</p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>To run the MV=
+VM
+QuickStart:<o:p></o:p></b></p>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-.25in;mso-list:l=
+4 level1 lfo17'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>1.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>You must have completed the steps in <a
+href=3D"#InstallingPrism">Installing Prism</a>.</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l4 level1 lfo17'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>2.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>In Windows Explorer, double-click the follow=
+ing
+batch file to open the solution in Visual Studio: <b style=3D'mso-bidi-font=
+-weight:
+normal'>Silverlight Only - MVVM QuickStart.bat</b></p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l4 level1 lfo17'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>3.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Set the MVVM project as the startup project.=
+</p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-.25in;mso-list:l4=
+ level1 lfo17'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>4.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Press F5.</p>
+
+<h2><a name=3D"_Toc273627001">Modularity QuickStarts</a></h2>
+
+<p class=3DMsoNormal>The Modularity QuickStarts demonstrate how to code,
+discover, and initialize modules using Prism. These QuickStarts represent an
+application composed of several modules that are discovered and loaded in t=
+he
+different ways supported by the Prism Library using MEF and Unity as the
+composition containers. They also show how to use the new download progress
+features of Prism 4.0.</p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>To run the WPF
+version of the Modularity QuickStart using MEF:<o:p></o:p></b></p>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-.25in;mso-list:l=
+23 level1 lfo18'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>1.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>You must have completed the steps in <a
+href=3D"#InstallingPrism">Installing Prism</a>.</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l23 level1 lfo18'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>2.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>In Windows Explorer, double-click the follow=
+ing
+batch file to open the solution in Visual Studio: <b style=3D'mso-bidi-font=
+-weight:
+normal'>Desktop only - Open Modularity With <span class=3DSpellE>Mef</span>
+QuickStart.bat</b></p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l23 level1 lfo18'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>3.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Set the <span class=3DSpellE>ModularityWithM=
+ef.Desktop</span>
+project as the startup project.</p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-.25in;mso-list:l2=
+3 level1 lfo18'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>4.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Press F5.</p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>To run the WPF
+version of the Modularity QuickStart using Unity:<o:p></o:p></b></p>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-.25in;mso-list:l=
+16 level1 lfo19'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>1.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>You must have completed the steps in <a
+href=3D"#InstallingPrism">Installing Prism</a>.</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l16 level1 lfo19'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>2.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>In Windows Explorer, double-click the follow=
+ing
+batch file to open the solution in Visual Studio: <b style=3D'mso-bidi-font=
+-weight:
+normal'>Desktop only - Open Modularity With Unity QuickStart.bat</b></p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l16 level1 lfo19'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>3.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Set the <span class=3DSpellE>ModularityWithU=
+nity.Desktop</span>
+project as the startup project.</p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-.25in;mso-list:l1=
+6 level1 lfo19'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>4.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Press F5.</p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>To run the
+Silverlight version of the Modularity QuickStart using MEF:<o:p></o:p></b><=
+/p>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-.25in;mso-list:l=
+12 level1 lfo13'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>1.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>You must have completed the steps in <a
+href=3D"#InstallingPrism">Installing Prism</a>.</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l12 level1 lfo13'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>2.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>In Windows Explorer, double-click the follow=
+ing
+batch file to open the solution in Visual Studio: <b style=3D'mso-bidi-font=
+-weight:
+normal'>Silverlight only - Open Modularity With <span class=3DSpellE>Mef</s=
+pan>
+QuickStart.bat</b></p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l12 level1 lfo13'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>3.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Set the <span class=3DSpellE>ModularityWithM=
+ef.Silverlight.Web</span>
+project as the startup project</p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-.25in;mso-list:l1=
+2 level1 lfo13'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>4.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Press F5.</p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>To run the
+Silverlight version of the Modularity QuickStart using Unity:<o:p></o:p></b=
+></p>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-.25in;mso-list:l=
+9 level1 lfo20'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>1.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>You must have completed the steps in <a
+href=3D"#InstallingPrism">Installing Prism</a>.</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l9 level1 lfo20'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>2.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>In Windows Explorer, double-click the follow=
+ing
+batch file to open the solution in Visual Studio: <b style=3D'mso-bidi-font=
+-weight:
+normal'>Silverlight only - Open Modularity With Unity QuickStart.bat</b></p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l9 level1 lfo20'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>3.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Set the <span class=3DSpellE>ModularityWithU=
+nity.Silverlight.Web</span>
+project as the startup project.</p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-.25in;mso-list:l9=
+ level1 lfo20'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>4.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Press F5.</p>
+
+<h2><a name=3D"_Toc273627002">State-based Navigation QuickStart</a></h2>
+
+<p class=3DMsoNormal>The State-based Navigation <span class=3DSpellE>QuickS=
+tart</span>
+demonstrates using <span class=3DSpellE>VisualStateManager</span> for appli=
+cation
+navigation. The QuickStart represents a subset of a chat application.<span
+style=3D'mso-spacerun:yes'>  </span>When started, a list of the user’s cont=
+acts
+is displayed.<span style=3D'mso-spacerun:yes'>  </span>The user can navigat=
+e to alternate
+views of their contacts; list, avatars, or contact detail. As incoming mess=
+ages
+arrive they are displayed in a Toast message.<span style=3D'mso-spacerun:ye=
+s'> 
+</span>A contact’s detail view provides the ability to send a message.</p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>To run the St=
+ate-Based
+Navigation QuickStart:<o:p></o:p></b></p>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-.25in;mso-list:l=
+26 level1 lfo21'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>1.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>You must have completed the steps in <a
+href=3D"#InstallingPrism">Installing Prism</a>.</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l26 level1 lfo21'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>2.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Open the solution file <span class=3DSpellE>=
+Quickstarts</span>\State-Based
+Navigation\State-Based Navigation.sln in Visual Studio. </p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-.25in;mso-list:l2=
+6 level1 lfo21'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>3.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Press F5.</p>
+
+<h2><a name=3D"_Toc273627003">Navigation QuickStart</a></h2>
+
+<p class=3DMsoNormal>The Navigation QuickStart demonstrates using Region
+Navigation API’s.<span style=3D'mso-spacerun:yes'>  </span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Note:</b><span
+style=3D'mso-spacerun:yes'>  </span>This QuickStart does not demonstrate
+integrating Region Navigation with the native Silverlight Navigation
+API’s.<span style=3D'mso-spacerun:yes'>  </span>However, Silverlight’s Navi=
+gation
+API’s can be used with the Prism Region Navigation API’s.</p>
+
+<p class=3DMsoNormal>The QuickStart is a simple email, contacts and calendar
+application.<span style=3D'mso-spacerun:yes'>  </span>The left region provi=
+des
+navigation to each of the views.<span style=3D'mso-spacerun:yes'>  </span>T=
+he
+views demonstrate navigating backwards and asynchronous dialog interactions=
+.</p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>To run the Na=
+vigation
+QuickStart:<o:p></o:p></b></p>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-.25in;mso-list:l=
+27 level1 lfo26'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>1.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>You must have completed the steps in <a
+href=3D"#InstallingPrism">Installing Prism</a>.</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l27 level1 lfo26'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>2.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Open the solution file <span class=3DSpellE>=
+Quickstarts</span>\Navigation\Silverlight\<span
+class=3DSpellE>RegionNavigation</span>\ RegionNavigation.Silverlight.sln in
+Visual Studio. </p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l27 level1 lfo26'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>3.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Set the <span class=3DSpellE>RegionNavigatio=
+n.Web</span>
+project as the startup project.</p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-.25in;mso-list:l2=
+7 level1 lfo26'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>4.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Press F5.</p>
+
+<h1><a name=3D"_Toc273627004">REFERENCE IMPLEMENTATIONS</a></h1>
+
+<h2><a name=3D"_Toc273627005">MVVM RI</a></h2>
+
+<p class=3DMsoNormal>The MVVM RI application is a reference implementation =
+that
+illustrates a complete survey application and demonstrates complex challeng=
+es
+that developers face when creating applications using the MVVM pattern. <sp=
+an
+style=3D'mso-spacerun:yes'> </span>The main window shows a list of available
+questionnaires; when one is selected, an empty survey with different types =
+of
+questions is shown. After the questionnaire is completed, it can be submitt=
+ed.
+After that, the user is returned to the list of available questionnaires.</=
+p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>To run the MV=
+VM
+Reference Implementation:<o:p></o:p></b></p>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-.25in;mso-list:l=
+11 level1 lfo22'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>1.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>You must have completed the steps in <a
+href=3D"#InstallingPrism">Installing Prism</a>.</p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l11 level1 lfo22'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>2.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>In Windows Explorer, double-click the follow=
+ing
+batch file to open the solution in Visual Studio: <b style=3D'mso-bidi-font=
+-weight:
+normal'>Silverlight Only - MVVM Reference Implementation.bat</b></p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l11 level1 lfo22'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>3.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Set the <span class=3DSpellE>MVVM.Web</span>
+project as the startup project.</p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-.25in;mso-list:l1=
+1 level1 lfo22'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>4.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Press F5.</p>
+
+<h2><a name=3D"_Toc273627006">Stock Trader RI</a></h2>
+
+<p class=3DMsoNormal>The Stock Trader application is a reference implementa=
+tion
+that illustrates the baseline architecture. Within the application, you will
+see solutions for common, and recurrent, challenges that developers face wh=
+en
+creating composite WPF applications. </p>
+
+<p class=3DMsoNormal>The Stock Trader RI illustrates a fictitious, but real=
+istic
+financial investments scenario. <span class=3DSpellE>Contoso</span> Financi=
+al
+Investments (CFI) is a fictional financial organization that is modeled aft=
+er
+real financial organizations. CFI is building a new composite application t=
+o be
+used by their stock traders.</p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>To run the St=
+ock
+Trader Reference Implementation:<o:p></o:p></b></p>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-.25in;mso-list:l=
+8 level1 lfo23'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>1.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>You must have completed the steps in <a
+href=3D"#InstallingPrism">Installing Prism</a>.</p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-.25in;mso-list:l8=
+ level1 lfo23'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>2.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>In Windows Explorer, double-click one of the
+following batch file to open the solution in Visual Studio: </p>
+
+<p class=3DMsoNormal style=3D'margin-top:0in;margin-right:0in;margin-bottom=
+:0in;
+margin-left:.5in;margin-bottom:.0001pt;line-height:normal'><b style=3D'mso-=
+bidi-font-weight:
+normal'>Desktop &amp; Silverlight - Open RI - <span class=3DSpellE>StockTra=
+der</span>
+Reference Implementation.bat<o:p></o:p></b></p>
+
+<p class=3DMsoNormal style=3D'margin-top:0in;margin-right:0in;margin-bottom=
+:0in;
+margin-left:.5in;margin-bottom:.0001pt;line-height:normal'><span class=3DGr=
+amE>or</span></p>
+
+<p class=3DMsoNormal style=3D'margin-top:0in;margin-right:0in;margin-bottom=
+:0in;
+margin-left:.5in;margin-bottom:.0001pt;line-height:normal'><b style=3D'mso-=
+bidi-font-weight:
+normal'>Desktop only - Open RI - <span class=3DSpellE>StockTrader</span>
+Reference Implementaion.bat</b><span style=3D'mso-spacerun:yes'>   </span>(=
+if you
+do not have Silverlight installed)</p>
+
+<p class=3DMsoNormal style=3D'margin-top:0in;margin-right:0in;margin-bottom=
+:0in;
+margin-left:.5in;margin-bottom:.0001pt;line-height:normal'><o:p>&nbsp;</o:p=
+></p>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'text-indent:-.25in;mso-list:l=
+8 level1 lfo23'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>3.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>To run the WPF version of the RI, set the <s=
+pan
+class=3DSpellE>StockTraderRI</span> project (located at the Desktop solution
+folder) as the startup project. </p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'text-indent:-.25in;mso-list:=
+l8 level1 lfo23'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>4.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>To run the Silverlight version of the RI, set
+the <span class=3DSpellE>StockTraderRI</span> project (located at the Silve=
+rlight
+solution folder) as the startup project.</p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'text-indent:-.25in;mso-list:l8=
+ level1 lfo23'><![if !supportLists]><span
+style=3D'mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style=3D'mso-list:Ignore'>5.<span style=3D'font:7.0pt "Times New Roman"'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Press F5.</p>
+
+<h1><a name=3D"_Toc273627007">MORE INFORMATION</a></h1>
+
+<h2><a name=3D"_Toc373627007">UpdatePrismBinaries.bat</a></h2>
+<p class=3DMsoNormal>
+The purpose of the UpdatePrismBinaries.bat is to automate the rebuilding of the Prism Libraries and copying of them to the {prism}\bin folder.
+If you are using the signed binaries that were include in the download, you will not need to use this batch file.
+If however, you are modifying the Prism source and want to rebuild and copy your modified assemblies to the {prism}\bin folder, you can use this batch file to build and copy your assemblies.
+</p>
+
+<h2><a name=3D"_Toc273627008">Known Issues</a> </h2>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'margin-left:.75in;mso-add-spa=
+ce:auto;
+text-indent:-.25in;mso-list:l15 level1 lfo9'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>•<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>When running the Silverlight applications us=
+ing
+the IE9 Beta, we have found that IE9 will sometimes display an error message
+when an application is first started.<span style=3D'mso-spacerun:yes'>  </s=
+pan>If
+this occurs, click IE9's refresh button and the page will load correctly.</=
+p>
+
+<p class=3DMsoListParagraphCxSpMiddle style=3D'margin-left:.75in;mso-add-sp=
+ace:
+auto;text-indent:-.25in;mso-list:l15 level1 lfo9'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>•<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Several links in the Prism documentation may=
+ not
+be working and some sections and images may be outdated. This will be addre=
+ssed
+in the final release of the guidance.</p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'margin-left:.75in;mso-add-spac=
+e:auto;
+text-indent:-.25in;mso-list:l15 level1 lfo9'><![if !supportLists]><span
+style=3D'mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri'><span
+style=3D'mso-list:Ignore'>•<span style=3D'font:7.0pt "Times New Roman"'>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>The documentation is still under construction
+and will change in future drops.</p>
+
+<h1><a name=3D"_Toc273627009">Prism Library and Code Access Security</a> </=
+h1>
+
+<p class=3DMsoNormal>The Prism Library uses all the default .NET Framework
+settings with respect to signing assemblies and code access security. It is=
+ a
+recommended practice to strong name all your assemblies, including the Prism
+Library assemblies, shell assembly, and any modules you might want to creat=
+e.
+This is not a requirement. It is possible to load assemblies that have not =
+been
+signed into a (signed or unsigned) Prism Library application. You can change
+this behavior by applying a .NET security policy that disallows the use of
+unsigned assemblies or one that changes the trust level of an assembly. Ple=
+ase
+note that the .NET Framework does not allow you to load partially trusted
+assemblies, unless you add the <span class=3DSpellE><b style=3D'mso-bidi-fo=
+nt-weight:
+normal'>AllowPartiallyTrustedCallers</b></span> attribute to the Prism Libr=
+ary
+assemblies. </p>
+
+<p class=3DMsoNormal>For more information, see <a
+href=3D"http://msdn.microsoft.com/en-us/library/930b76w0.aspx">Code Access
+Security</a> in the &quot;.NET Framework Developer's Guide&quot; on MSDN.</=
+p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01CB616D.AA6A8BF0
+Content-Location: file:///C:/EA821E05/Readme_files/item0001.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+ÿþ<=00?=00x=00m=00l=00 =00v=00e=00r=00s=00i=00o=00n=00=3D=00"=001=00.=000=
+=00"=00 =00e=00n=00c=00o=00d=00i=00n=00g=00=3D=00"=00u=00t=00f=00-=001=006=
+=00"=00?=00>=00<=00t=00o=00c=00 =00x=00m=00l=00n=00s=00:=00x=00s=00i=00=3D=
+=00"=00h=00t=00t=00p=00:=00/=00/=00w=00w=00w=00.=00w=003=00.=00o=00r=00g=00=
+/=002=000=000=001=00/=00X=00M=00L=00S=00c=00h=00e=00m=00a=00-=00i=00n=00s=
+=00t=00a=00n=00c=00e=00"=00 =00x=00m=00l=00n=00s=00:=00x=00s=00d=00=3D=00"=
+=00h=00t=00t=00p=00:=00/=00/=00w=00w=00w=00.=00w=003=00.=00o=00r=00g=00/=00=
+2=000=000=001=00/=00X=00M=00L=00S=00c=00h=00e=00m=00a=00"=00/=00>=00
+------=_NextPart_01CB616D.AA6A8BF0
+Content-Location: file:///C:/EA821E05/Readme_files/props002.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"no"?>
+<ds:datastoreItem ds:itemID=3D"{6DADB1CB-DA11-427E-964F-ED16CF2CE8D0}" xmln=
+s:ds=3D"http://schemas.openxmlformats.org/officeDocument/2006/customXml"><d=
+s:schemaRefs><ds:schemaRef ds:uri=3D"http://www.w3.org/2001/XMLSchema"/></d=
+s:schemaRefs></ds:datastoreItem>
+------=_NextPart_01CB616D.AA6A8BF0
+Content-Location: file:///C:/EA821E05/Readme_files/item0003.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<b:Sources SelectedStyle=3D"\APA.XSL" StyleName=3D"APA" xmlns:b=3D"http://s=
+chemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns=3D"http:/=
+/schemas.openxmlformats.org/officeDocument/2006/bibliography"></b:Sources>
+
+------=_NextPart_01CB616D.AA6A8BF0
+Content-Location: file:///C:/EA821E05/Readme_files/props004.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"no"?>
+<ds:datastoreItem ds:itemID=3D"{033A0F48-1B09-483A-B32F-39ABFECB137E}" xmln=
+s:ds=3D"http://schemas.openxmlformats.org/officeDocument/2006/customXml"><d=
+s:schemaRefs><ds:schemaRef ds:uri=3D"http://schemas.openxmlformats.org/offi=
+ceDocument/2006/bibliography"/></ds:schemaRefs></ds:datastoreItem>
+------=_NextPart_01CB616D.AA6A8BF0
+Content-Location: file:///C:/EA821E05/Readme_files/themedata.thmx
+Content-Transfer-Encoding: base64
+Content-Type: application/vnd.ms-officetheme
+
+UEsDBBQABgAIAAAAIQDp3g+//wAAABwCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbKyRy07DMBBF
+90j8g+UtSpyyQAgl6YLHjseifMDImSQWydiyp1X790zSVEKoIBZsLNkz954743K9Hwe1w5icp0qv
+8kIrJOsbR12l3zdP2a1WiYEaGDxhpQ+Y9Lq+vCg3h4BJiZpSpXvmcGdMsj2OkHIfkKTS+jgCyzV2
+JoD9gA7NdVHcGOuJkTjjyUPX5QO2sB1YPe7l+Zgk4pC0uj82TqxKQwiDs8CS1Oyo+UbJFkIuyrkn
+9S6kK4mhzVnCVPkZsOheZTXRNajeIPILjBLDsAyJX89nIBkt5r87nons29ZZbLzdjrKOfDZezE7B
+/xRg9T/oE9PMf1t/AgAA//8DAFBLAwQUAAYACAAAACEApdan58AAAAA2AQAACwAAAF9yZWxzLy5y
+ZWxzhI/PasMwDIfvhb2D0X1R0sMYJXYvpZBDL6N9AOEof2giG9sb69tPxwYKuwiEpO/3qT3+rov5
+4ZTnIBaaqgbD4kM/y2jhdj2/f4LJhaSnJQhbeHCGo3vbtV+8UNGjPM0xG6VItjCVEg+I2U+8Uq5C
+ZNHJENJKRds0YiR/p5FxX9cfmJ4Z4DZM0/UWUtc3YK6PqMn/s8MwzJ5PwX+vLOVFBG43lExp5GKh
+qC/jU72QqGWq1B7Qtbj51v0BAAD//wMAUEsDBBQABgAIAAAAIQBreZYWgwAAAIoAAAAcAAAAdGhl
+bWUvdGhlbWUvdGhlbWVNYW5hZ2VyLnhtbAzMTQrDIBBA4X2hd5DZN2O7KEVissuuu/YAQ5waQceg
+0p/b1+XjgzfO3xTVm0sNWSycBw2KZc0uiLfwfCynG6jaSBzFLGzhxxXm6XgYybSNE99JyHNRfSPV
+kIWttd0g1rUr1SHvLN1euSRqPYtHV+jT9yniResrJgoCOP0BAAD//wMAUEsDBBQABgAIAAAAIQAw
+3UMpqAYAAKQbAAAWAAAAdGhlbWUvdGhlbWUvdGhlbWUxLnhtbOxZT2/bNhS/D9h3IHRvYyd2Ggd1
+itixmy1NG8Ruhx5piZbYUKJA0kl9G9rjgAHDumGHFdhth2FbgRbYpfs02TpsHdCvsEdSksVYXpI2
+2IqtPiQS+eP7/x4fqavX7scMHRIhKU/aXv1yzUMk8XlAk7Dt3R72L615SCqcBJjxhLS9KZHetY33
+37uK11VEYoJgfSLXcduLlErXl5akD8NYXuYpSWBuzEWMFbyKcCkQ+AjoxmxpuVZbXYoxTTyU4BjI
+3hqPqU/QUJP0NnLiPQaviZJ6wGdioEkTZ4XBBgd1jZBT2WUCHWLW9oBPwI+G5L7yEMNSwUTbq5mf
+t7RxdQmvZ4uYWrC2tK5vftm6bEFwsGx4inBUMK33G60rWwV9A2BqHtfr9bq9ekHPALDvg6ZWljLN
+Rn+t3slplkD2cZ52t9asNVx8if7KnMytTqfTbGWyWKIGZB8bc/i12mpjc9nBG5DFN+fwjc5mt7vq
+4A3I4lfn8P0rrdWGizegiNHkYA6tHdrvZ9QLyJiz7Ur4GsDXahl8hoJoKKJLsxjzRC2KtRjf46IP
+AA1kWNEEqWlKxtiHKO7ieCQo1gzwOsGlGTvky7khzQtJX9BUtb0PUwwZMaP36vn3r54/RccPnh0/
++On44cPjBz9aQs6qbZyE5VUvv/3sz8cfoz+efvPy0RfVeFnG//rDJ7/8/Hk1ENJnJs6LL5/89uzJ
+i68+/f27RxXwTYFHZfiQxkSim+QI7fMYFDNWcSUnI3G+FcMI0/KKzSSUOMGaSwX9nooc9M0pZpl3
+HDk6xLXgHQHlowp4fXLPEXgQiYmiFZx3otgB7nLOOlxUWmFH8yqZeThJwmrmYlLG7WN8WMW7ixPH
+v71JCnUzD0tH8W5EHDH3GE4UDklCFNJz/ICQCu3uUurYdZf6gks+VuguRR1MK00ypCMnmmaLtmkM
+fplW6Qz+dmyzewd1OKvSeoscukjICswqhB8S5pjxOp4oHFeRHOKYlQ1+A6uoSsjBVPhlXE8q8HRI
+GEe9gEhZteaWAH1LTt/BULEq3b7LprGLFIoeVNG8gTkvI7f4QTfCcVqFHdAkKmM/kAcQohjtcVUF
+3+Vuhuh38ANOFrr7DiWOu0+vBrdp6Ig0CxA9MxEVvrxOuBO/gykbY2JKDRR1p1bHNPm7ws0oVG7L
+4eIKN5TKF18/rpD7bS3Zm7B7VeXM9olCvQh3sjx3uQjo21+dt/Ak2SOQEPNb1Lvi/K44e//54rwo
+ny++JM+qMBRo3YvYRtu03fHCrntMGRuoKSM3pGm8Jew9QR8G9Tpz4iTFKSyN4FFnMjBwcKHAZg0S
+XH1EVTSIcApNe93TREKZkQ4lSrmEw6IZrqSt8dD4K3vUbOpDiK0cEqtdHtjhFT2cnzUKMkaq0Bxo
+c0YrmsBZma1cyYiCbq/DrK6FOjO3uhHNFEWHW6GyNrE5lIPJC9VgsLAmNDUIWiGw8iqc+TVrOOxg
+RgJtd+uj3C3GCxfpIhnhgGQ+0nrP+6hunJTHypwiWg8bDPrgeIrVStxamuwbcDuLk8rsGgvY5d57
+Ey/lETzzElA7mY4sKScnS9BR22s1l5se8nHa9sZwTobHOAWvS91HYhbCZZOvhA37U5PZZPnMm61c
+MTcJ6nD1Ye0+p7BTB1Ih1RaWkQ0NM5WFAEs0Jyv/chPMelEKVFSjs0mxsgbB8K9JAXZ0XUvGY+Kr
+srNLI9p29jUrpXyiiBhEwREasYnYx+B+HaqgT0AlXHeYiqBf4G5OW9tMucU5S7ryjZjB2XHM0ghn
+5VanaJ7JFm4KUiGDeSuJB7pVym6UO78qJuUvSJVyGP/PVNH7Cdw+rATaAz5cDQuMdKa0PS5UxKEK
+pRH1+wIaB1M7IFrgfhemIajggtr8F+RQ/7c5Z2mYtIZDpNqnIRIU9iMVCUL2oCyZ6DuFWD3buyxJ
+lhEyEVUSV6ZW7BE5JGyoa+Cq3ts9FEGom2qSlQGDOxl/7nuWQaNQNznlfHMqWbH32hz4pzsfm8yg
+lFuHTUOT278QsWgPZruqXW+W53tvWRE9MWuzGnlWALPSVtDK0v41RTjnVmsr1pzGy81cOPDivMYw
+WDREKdwhIf0H9j8qfGa/dugNdcj3obYi+HihiUHYQFRfso0H0gXSDo6gcbKDNpg0KWvarHXSVss3
+6wvudAu+J4ytJTuLv89p7KI5c9k5uXiRxs4s7Njaji00NXj2ZIrC0Dg/yBjHmM9k5S9ZfHQPHL0F
+3wwmTEkTTPCdSmDooQcmDyD5LUezdOMvAAAA//8DAFBLAwQUAAYACAAAACEADdGQn7YAAAAbAQAA
+JwAAAHRoZW1lL3RoZW1lL19yZWxzL3RoZW1lTWFuYWdlci54bWwucmVsc4SPTQrCMBSE94J3CG9v
+07oQkSbdiNCt1AOE5DUNNj8kUeztDa4sCC6HYb6ZabuXnckTYzLeMWiqGgg66ZVxmsFtuOyOQFIW
+TonZO2SwYIKObzftFWeRSyhNJiRSKC4xmHIOJ0qTnNCKVPmArjijj1bkIqOmQci70Ej3dX2g8ZsB
+fMUkvWIQe9UAGZZQmv+z/TgaiWcvHxZd/lFBc9mFBSiixszgI5uqTATKW7q6xN8AAAD//wMAUEsB
+Ai0AFAAGAAgAAAAhAOneD7//AAAAHAIAABMAAAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVz
+XS54bWxQSwECLQAUAAYACAAAACEApdan58AAAAA2AQAACwAAAAAAAAAAAAAAAAAwAQAAX3JlbHMv
+LnJlbHNQSwECLQAUAAYACAAAACEAa3mWFoMAAACKAAAAHAAAAAAAAAAAAAAAAAAZAgAAdGhlbWUv
+dGhlbWUvdGhlbWVNYW5hZ2VyLnhtbFBLAQItABQABgAIAAAAIQAw3UMpqAYAAKQbAAAWAAAAAAAA
+AAAAAAAAANYCAAB0aGVtZS90aGVtZS90aGVtZTEueG1sUEsBAi0AFAAGAAgAAAAhAA3RkJ+2AAAA
+GwEAACcAAAAAAAAAAAAAAAAAsgkAAHRoZW1lL3RoZW1lL19yZWxzL3RoZW1lTWFuYWdlci54bWwu
+cmVsc1BLBQYAAAAABQAFAF0BAACtCgAAAAA=
+
+------=_NextPart_01CB616D.AA6A8BF0
+Content-Location: file:///C:/EA821E05/Readme_files/colorschememapping.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"yes"?>
+<a:clrMap xmlns:a=3D"http://schemas.openxmlformats.org/drawingml/2006/main"=
+ bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
+2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
+ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
+------=_NextPart_01CB616D.AA6A8BF0
+Content-Location: file:///C:/EA821E05/Readme_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../Readme.htm"/>
+ <o:File HRef=3D"item0001.xml"/>
+ <o:File HRef=3D"props002.xml"/>
+ <o:File HRef=3D"item0003.xml"/>
+ <o:File HRef=3D"props004.xml"/>
+ <o:File HRef=3D"themedata.thmx"/>
+ <o:File HRef=3D"colorschememapping.xml"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01CB616D.AA6A8BF0--

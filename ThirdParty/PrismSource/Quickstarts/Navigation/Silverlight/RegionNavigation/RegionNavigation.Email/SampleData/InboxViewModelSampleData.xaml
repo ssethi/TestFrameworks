@@ -1,0 +1,60 @@
+<RegionNavigation_Email_ViewModels:InboxViewModel 
+    xmlns:RegionNavigation_Email_ViewModels="clr-namespace:RegionNavigation.Email.ViewModels" 
+    xmlns:RegionNavigation_Email_Model="clr-namespace:RegionNavigation.Email.Model" 
+    xmlns:Infra="clr-namespace:RegionNavigation.Infrastructure;assembly=RegionNavigation.Infrastructure" 
+    xmlns:System="clr-namespace:System;assembly=mscorlib">
+    <RegionNavigation_Email_ViewModels:InboxViewModel.Messages>
+        <Infra:DesignDataCollectionView>
+            <RegionNavigation_Email_Model:EmailDocument From="Class aenean maecenas" Subject="Vestibulum curae" Text="Cras donec aliquam integer" To="Mauris etiam">
+                <RegionNavigation_Email_Model:EmailDocument.Id>
+                    <System:Guid/>
+                </RegionNavigation_Email_Model:EmailDocument.Id>
+            </RegionNavigation_Email_Model:EmailDocument>
+            <RegionNavigation_Email_Model:EmailDocument From="Nam quisque adipiscing duis sed" Subject="Nullam dis fusce" Text="Curabitur vivamus parturient" To="Phasellus est">
+                <RegionNavigation_Email_Model:EmailDocument.Id>
+                    <System:Guid/>
+                </RegionNavigation_Email_Model:EmailDocument.Id>
+            </RegionNavigation_Email_Model:EmailDocument>
+            <RegionNavigation_Email_Model:EmailDocument From="Lorem aptent hac leo" Subject="Consequat auctor congue" Text="Mus praesent" To="Nec nunc">
+                <RegionNavigation_Email_Model:EmailDocument.Id>
+                    <System:Guid/>
+                </RegionNavigation_Email_Model:EmailDocument.Id>
+            </RegionNavigation_Email_Model:EmailDocument>
+            <RegionNavigation_Email_Model:EmailDocument From="Non convallis" Subject="Amet accumsan morbi vestibulum per" Text="Sed aliquam cursus" To="Ante dignissim vestibulum adipiscing">
+                <RegionNavigation_Email_Model:EmailDocument.Id>
+                    <System:Guid/>
+                </RegionNavigation_Email_Model:EmailDocument.Id>
+            </RegionNavigation_Email_Model:EmailDocument>
+            <RegionNavigation_Email_Model:EmailDocument From="Sem bibendum sit dictumst eleifend" Subject="Aliquet dictum blandit commodo" Text="Conubia parturient vel nulla elementum" To="Nam vestibulum">
+                <RegionNavigation_Email_Model:EmailDocument.Id>
+                    <System:Guid/>
+                </RegionNavigation_Email_Model:EmailDocument.Id>
+            </RegionNavigation_Email_Model:EmailDocument>
+            <RegionNavigation_Email_Model:EmailDocument From="Arcu proin" Subject="Lectus facilisi sed augue" Text="Diam dolor vestibulum" To="Facilisis cubilia adipiscing fames faucibus">
+                <RegionNavigation_Email_Model:EmailDocument.Id>
+                    <System:Guid/>
+                </RegionNavigation_Email_Model:EmailDocument.Id>
+            </RegionNavigation_Email_Model:EmailDocument>
+            <RegionNavigation_Email_Model:EmailDocument From="Eget dapibus elit dis habitant" Subject="Inceptos felis libero est egestas" Text="Interdum euismod ipsum feugiat fermentum" To="Justo lobortis">
+                <RegionNavigation_Email_Model:EmailDocument.Id>
+                    <System:Guid/>
+                </RegionNavigation_Email_Model:EmailDocument.Id>
+            </RegionNavigation_Email_Model:EmailDocument>
+            <RegionNavigation_Email_Model:EmailDocument From="Lacus parturient gravida enim vestibulum" Subject="Ligula erat vestibulum" Text="Fringilla iaculis habitasse nascetur" To="Hendrerit hac lacinia lorem">
+                <RegionNavigation_Email_Model:EmailDocument.Id>
+                    <System:Guid/>
+                </RegionNavigation_Email_Model:EmailDocument.Id>
+            </RegionNavigation_Email_Model:EmailDocument>
+            <RegionNavigation_Email_Model:EmailDocument From="Adipiscing litora luctus parturient" Subject="Eros nibh magnis laoreet himenaeos" Text="Magna vestibulum vestibulum" To="Natoque leo pharetra">
+                <RegionNavigation_Email_Model:EmailDocument.Id>
+                    <System:Guid/>
+                </RegionNavigation_Email_Model:EmailDocument.Id>
+            </RegionNavigation_Email_Model:EmailDocument>
+            <RegionNavigation_Email_Model:EmailDocument From="Posuere placerat" Subject="Nisi nisl" Text="Adipiscing pulvinar" To="Mattis massa nunc parturient">
+                <RegionNavigation_Email_Model:EmailDocument.Id>
+                    <System:Guid/>
+                </RegionNavigation_Email_Model:EmailDocument.Id>
+            </RegionNavigation_Email_Model:EmailDocument>
+        </Infra:DesignDataCollectionView>
+    </RegionNavigation_Email_ViewModels:InboxViewModel.Messages>
+</RegionNavigation_Email_ViewModels:InboxViewModel>

@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{86D34101-9FB7-41EF-AD8E-AE6F4871C82A}</ProjectGuid>
+    <ProjectTypeGuids>{A1591282-1198-4647-A2B1-27E5FF5F6F3B};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MVVM.Client</RootNamespace>
+    <AssemblyName>MVVM.Client</AssemblyName>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>MVVM.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>MVVM.Client.App</SilverlightAppEntry>
+    <TestPageFileName>MVVMTestPage.html</TestPageFileName>
+    <CreateTestPage>true</CreateTestPage>
+    <ValidateXaml>true</ValidateXaml>
+    <EnableOutOfBrowser>false</EnableOutOfBrowser>
+    <OutOfBrowserSettingsFile>Properties\OutOfBrowserSettings.xml</OutOfBrowserSettingsFile>
+    <UsePlatformExtensions>false</UsePlatformExtensions>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <LinkedServerProject>
+    </LinkedServerProject><Utf8Output>true</Utf8Output>
+    <ExpressionBlendVersion>4.0.20525.0</ExpressionBlendVersion>
+  </PropertyGroup>
+  <!-- This property group is only here to support building this project using the 
+       MSBuild 3.5 toolset. In order to work correctly with this older toolset, it needs 
+       to set the TargetFrameworkVersion to v3.5 -->
+  <PropertyGroup Condition="'$(MSBuildToolsVersion)' == '3.5'">
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Expression.Drawing, Version=4.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\LIB\Silverlight\Microsoft.Expression.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Interactions">
+      <HintPath>..\..\LIB\Silverlight\Microsoft.Expression.Interactions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Prism">
+      <HintPath>..\..\Bin\Silverlight\Microsoft.Practices.Prism.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Prism.Interactivity">
+      <HintPath>..\..\Bin\Silverlight\Microsoft.Practices.Prism.Interactivity.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Pratices.Prism.GuidanceTools">
+      <HintPath>..\..\LIB\Silverlight\Microsoft.Pratices.Prism.GuidanceTools.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib" />
+    <Reference Include="System.ComponentModel.Composition, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Windows.Controls, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Controls.Data.Input, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Interactivity">
+      <HintPath>..\..\LIB\Silverlight\System.Windows.Interactivity.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Windows.Browser" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Infrastructure\ExportViewAttribute.cs" />
+    <Compile Include="Infrastructure\StateManagement\StateHandler.cs" />
+    <Compile Include="Infrastructure\ViewFactory.cs" />
+    <Compile Include="Infrastructure\Behaviors\SynchronizeSelectedItems.cs" />
+    <Compile Include="Infrastructure\Behaviors\ValidateObject.cs" />
+    <Compile Include="Infrastructure\IMainView.cs" />
+    <Compile Include="Infrastructure\ISingleViewUIService.cs" />
+    <Compile Include="Infrastructure\StateManagement\CurrentState.cs" />
+    <Compile Include="Infrastructure\StateManagement\ICurrentState.cs" />
+    <Compile Include="Infrastructure\StateManagement\IState.cs" />
+    <Compile Include="Infrastructure\StateManagement\State.cs" />
+    <Compile Include="Infrastructure\StringExtensions.cs" />
+    <Compile Include="Infrastructure\SingleViewUIService.cs" />
+    <Compile Include="Infrastructure\WeakEventHandler.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPageUIService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\IOperationResult.cs" />
+    <Compile Include="Repository\IOperationResult.Generic.cs" />
+    <Compile Include="Repository\IQuestionnaireRepository.cs" />
+    <Compile Include="Repository\OperationResult.cs" />
+    <Compile Include="Repository\OperationResult.Generic.cs" />
+    <Compile Include="Repository\QuestionnaireRepository.cs" />
+    <Compile Include="ViewModels\AvailableQuestionnaireTemplatesListViewModel.cs" />
+    <Compile Include="ViewModels\QuestionnaireTemplateSummaryViewModel.cs" />
+    <Compile Include="ViewModels\QuestionViewModel.Generic.cs" />
+    <Compile Include="ViewModels\MultipleSelectionQuestionViewModel.cs" />
+    <Compile Include="ViewModels\NumericQuestionViewModel.cs" />
+    <Compile Include="ViewModels\OpenQuestionViewModel.cs" />
+    <Compile Include="ViewModels\QuestionnaireTemplateCurrentState.cs" />
+    <Compile Include="ViewModels\QuestionnaireTemplateState.cs" />
+    <Compile Include="ViewModels\QuestionnaireViewModel.cs" />
+    <Compile Include="ViewModels\QuestionViewModel.cs" />
+    <Compile Include="ViewNames.cs" />
+    <Compile Include="Views\AvailableQuestionnaireTemplatesListView.xaml.cs">
+      <DependentUpon>AvailableQuestionnaireTemplatesListView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MultipleSelectionView.xaml.cs">
+      <DependentUpon>MultipleSelectionView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\NumericQuestionView.xaml.cs">
+      <DependentUpon>NumericQuestionView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\OpenQuestionView.xaml.cs">
+      <DependentUpon>OpenQuestionView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\QuestionnaireTemplateSummaryView.xaml.cs">
+      <DependentUpon>QuestionnaireTemplateSummaryView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\QuestionnaireView.xaml.cs">
+      <DependentUpon>QuestionnaireView.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <DesignData Include="SampleData\NumericQuestionViewModelSampleData.xaml">
+      <SubType>Designer</SubType>
+    </DesignData>
+    <DesignData Include="SampleData\OpenQuestionViewModelSampleData.xaml">
+      <SubType>Designer</SubType>
+    </DesignData>
+    <DesignData Include="SampleData\MultipleSelectionQuestionViewModelSampleData.xaml">
+      <SubType>Designer</SubType>
+    </DesignData>
+    <Page Include="Theme\Theme.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\AvailableQuestionnaireTemplatesListView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\MultipleSelectionView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\NumericQuestionView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\OpenQuestionView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\QuestionnaireTemplateSummaryView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\QuestionnaireView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\DataSources\MVVM.Questionnaires.Web.Services.QuestionnaireContext.datasource" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MVVM.Questionnaires\MVVM.Questionnaires.csproj">
+      <Project>{FCCA313C-744C-4D17-B2A4-2C4AD9254FCD}</Project>
+      <Name>MVVM.Questionnaires</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <DesignData Include="SampleData\AvailableQuestionnaireTemplatesListViewModelSampleData.xaml" />
+    <DesignData Include="SampleData\QuestionnaireViewModelSampleData.xaml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{A1591282-1198-4647-A2B1-27E5FF5F6F3B}">
+        <SilverlightProjectProperties />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

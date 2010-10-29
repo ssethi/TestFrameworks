@@ -1,0 +1,1 @@
+@call "Quickstarts\MultiTargeting\MultiTargetingQuickstart.sln"

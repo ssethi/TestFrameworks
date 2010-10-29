@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="ModuleA.AddFundView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Width="Auto">
+    <StackPanel>
+        <TextBlock Text="Customer:" />
+        <!--<ComboBox Name="CustomerCbx" Margin="5"  Style="{StaticResource SimpleComboBox}" Width="Auto" HorizontalAlignment="Stretch">-->
+        <ComboBox Name="CustomerCbx" Margin="5" Width="Auto" HorizontalAlignment="Stretch">
+            <ComboBoxItem Content="Customer1" />
+            <ComboBoxItem Content="Customer2" />
+        </ComboBox>
+        <TextBlock Text="Fund:" />
+        <!--<ComboBox Name="FundCbx" Margin="5"   Style="{StaticResource SimpleComboBox}" Width="Auto" HorizontalAlignment="Stretch">-->
+        <ComboBox Name="FundCbx" Margin="5" Width="Auto" HorizontalAlignment="Stretch">
+            <ComboBoxItem Content="FundA" />
+            <ComboBoxItem Content="FundB" />
+        </ComboBox>
+        <Button Name="AddButton" Margin="5" Width="75" Height="25"  Style="{StaticResource SimpleButton}" HorizontalAlignment="Left" Content="Add" />
+    </StackPanel>
+</UserControl>

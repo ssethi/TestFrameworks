@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestLists xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestList name="Lists of Tests" id="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <RunConfiguration id="97f2464b-4493-4ab5-bf09-09cf59f0fe7c" name="Local Test Run" storage="localtestrun.testrunconfig" type="Microsoft.VisualStudio.TestTools.Common.TestRunConfiguration, Microsoft.VisualStudio.QualityTools.Common,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestList>
+  <TestList name="WPF" id="8d2c4422-bbfa-4aba-b327-96ed787600e7" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="5c026b3b-6c03-4139-fb77-7c9350c15634" name="PresentationModelUsesInjectedView" storage="desktop\realestatelistingviewer.tests\bin\debug\realestatelistingviewer.net.tests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+      <TestLink id="b9efa5b9-f116-a647-9d2a-38c0b1d6b95e" name="PresentationModelInitializesViewModel" storage="desktop\realestatelistingviewer.tests\bin\debug\realestatelistingviewer.net.tests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+</TestLists>

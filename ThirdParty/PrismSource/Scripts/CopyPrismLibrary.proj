@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="CopyBinaries" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration>Debug</Configuration>
+    <CopyDesktop>True</CopyDesktop>
+    <CopySilverlight>True</CopySilverlight>
+    <CopyPhone>True</CopyPhone>
+    <ForceOverwrite>False</ForceOverwrite>
+    <_PrismLibraryFolder>$(PrismLibraryFolder)</_PrismLibraryFolder>
+    <_PrismLibraryFolder Condition=" '$(_PrismLibraryFolder)' == '' ">..\PrismLibrary\</_PrismLibraryFolder>
+    <_PrismLibraryFolder Condition="'$(_PrismLibraryFolder)' != '' and !HasTrailingSlash('$(_PrismLibraryFolder)')">$(_PrismLibraryFolder)\</_PrismLibraryFolder>
+    <_LibFolder>$(LibFolder)</_LibFolder>
+    <_LibFolder Condition=" '$(_LibFolder)' == '' ">..\Lib\</_LibFolder>
+    <_LibFolder Condition="'$(_LibFolder)' != '' and !HasTrailingSlash('$(_LibFolder)')">$(_LibFolder)\</_LibFolder>
+    <_BinFolder>$(BinFolder)</_BinFolder>
+    <_BinFolder Condition=" '$(_BinFolder)' == '' ">..\Bin</_BinFolder>
+    <_BinFolder Condition="'$(_BinFolder)' != '' and !HasTrailingSlash('$(_BinFolder)')">$(_BinFolder)\</_BinFolder>
+  </PropertyGroup>
+
+  <ItemGroup Condition="$(CopyDesktop) == True">
+    <Binaries
+        Include="$(_LibFolder)Desktop\CommonServiceLocation\Microsoft.Practices.ServiceLocation.*;
+                 $(_LibFolder)Desktop\Unity\Microsoft.Practices.Unity.dll;
+                 $(_LibFolder)Desktop\Unity\Microsoft.Practices.Unity.pdb;
+                 $(_LibFolder)Desktop\Unity\Microsoft.Practices.Unity.xml;
+                 $(_PrismLibraryFolder)Desktop\Prism\Bin\$(Configuration)\Microsoft.Practices.Prism.*;
+                 $(_PrismLibraryFolder)Desktop\Prism.Interactivity\Bin\$(Configuration)\Microsoft.Practices.Prism.Interactivity.*;
+                 $(_PrismLibraryFolder)Desktop\Prism.MefExtensions\Bin\$(Configuration)\Microsoft.Practices.Prism.MefExtensions.*;
+                 $(_PrismLibraryFolder)Desktop\Prism.UnityExtensions\Bin\$(Configuration)\Microsoft.Practices.Prism.UnityExtensions.*">
+      <Platform>Desktop</Platform>
+    </Binaries>
+  </ItemGroup>
+
+  <ItemGroup Condition="$(CopySilverlight) == True">
+    <Binaries
+        Include="$(_LibFolder)Silverlight\CommonServiceLocation\Microsoft.Practices.ServiceLocation.*;
+                 $(_LibFolder)Silverlight\Unity\Microsoft.Practices.Unity.Silverlight.*;
+                 $(_PrismLibraryFolder)Silverlight\Prism\Bin\$(Configuration)\Microsoft.Practices.Prism.*;
+                 $(_PrismLibraryFolder)Silverlight\Prism.Interactivity\Bin\$(Configuration)\Microsoft.Practices.Prism.Interactivity.*;
+                 $(_PrismLibraryFolder)Silverlight\Prism.MefExtensions\Bin\$(Configuration)\Microsoft.Practices.Prism.MefExtensions.*;
+                 $(_PrismLibraryFolder)Silverlight\Prism.UnityExtensions\Bin\$(Configuration)\Microsoft.Practices.Prism.UnityExtensions.*;
+                 $(_PrismLibraryFolder)Silverlight\Extmap\*.xml">
+      <Platform>Silverlight</Platform>
+    </Binaries>
+  </ItemGroup>
+
+  <ItemGroup Condition="$(CopyPhone) == True">
+    <Binaries
+        Include="$(_PrismLibraryFolder)Phone\Prism\Bin\$(Configuration)\Microsoft.Practices.Prism.*;
+                 $(_PrismLibraryFolder)Phone\Prism.Interactivity\Bin\$(Configuration)\Microsoft.Practices.Prism.Interactivity.*">
+      <Platform>Phone</Platform>
+    </Binaries>
+  </ItemGroup>
+
+  <Target Name="CopyBinaries">
+    <Copy SourceFiles="@(Binaries)"
+          DestinationFiles="@(Binaries->'$(_BinFolder)%(Platform)\%(Filename)%(Extension)')"
+          OverwriteReadOnlyFiles="$(ForceOverwrite)"/>
+  </Target>
+
+</Project>

@@ -1,0 +1,118 @@
+<MVVM_Client_ViewModels:AvailableQuestionnaireTemplatesListViewModel xmlns:MVVM_Client_ViewModels="clr-namespace:MVVM.Client.ViewModels" xmlns:MVVM_Questionnaires_Model="clr-namespace:MVVM.Questionnaires.Model;assembly=MVVM.Questionnaires" xmlns:System="clr-namespace:System;assembly=mscorlib">
+	<MVVM_Client_ViewModels:AvailableQuestionnaireTemplatesListViewModel.QuestionnaireTemplateSummary>
+		<MVVM_Client_ViewModels:QuestionnaireTemplateSummaryViewModel CurrentState="Class curabitur maecenas aliquam">
+			<MVVM_Client_ViewModels:QuestionnaireTemplateSummaryViewModel.CurrentlySelectedQuestionnaireTemplate>
+				<MVVM_Questionnaires_Model:QuestionnaireTemplate HasErrors="True" Title="Eleifend fusce mus">
+					<MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+						<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Aenean nam praesent cras sed"/>
+						<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Integer quisque dis"/>
+						<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Curae phasellus vestibulum adipiscing accumsan"/>
+						<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Vivamus bibendum consequat"/>
+						<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Convallis mauris"/>
+						<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Dignissim duis donec elementum"/>
+						<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Dictumst aliquam est parturient"/>
+						<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Vestibulum hac"/>
+						<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Etiam aliquet"/>
+						<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Leo facilisis nullam"/>
+					</MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+				</MVVM_Questionnaires_Model:QuestionnaireTemplate>
+			</MVVM_Client_ViewModels:QuestionnaireTemplateSummaryViewModel.CurrentlySelectedQuestionnaireTemplate>
+			<MVVM_Client_ViewModels:QuestionnaireTemplateSummaryViewModel.QuestionnaireTemplateSummary>
+				<MVVM_Questionnaires_Model:QuestionnaireTemplateSummary Description="Aptent lorem vestibulum auctor" HasErrors="False" NumberOfQuestions="11" TimesTaken="52" Title="Fermentum nunc">
+				</MVVM_Questionnaires_Model:QuestionnaireTemplateSummary>
+			</MVVM_Client_ViewModels:QuestionnaireTemplateSummaryViewModel.QuestionnaireTemplateSummary>
+		</MVVM_Client_ViewModels:QuestionnaireTemplateSummaryViewModel>
+	</MVVM_Client_ViewModels:AvailableQuestionnaireTemplatesListViewModel.QuestionnaireTemplateSummary>
+	<MVVM_Client_ViewModels:AvailableQuestionnaireTemplatesListViewModel.QuestionnaireTemplates>
+		<MVVM_Questionnaires_Model:QuestionnaireTemplate HasErrors="False" Title="Ante faucibus lectus malesuada">
+			<MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Fringilla nec habitasse"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Congue cursus hendrerit"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Adipiscing himenaeos"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Imperdiet parturient non blandit morbi"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Facilisi dictum per amet"/>
+			</MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+		</MVVM_Questionnaires_Model:QuestionnaireTemplate>
+		<MVVM_Questionnaires_Model:QuestionnaireTemplate HasErrors="False" Title="Porttitor egestas euismod">
+			<MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Habitant penatibus"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Arcu commodo vestibulum diam conubia"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Nulla libero"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Cubilia ligula proin sed"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Sem dapibus"/>
+			</MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+		</MVVM_Questionnaires_Model:QuestionnaireTemplate>
+		<MVVM_Questionnaires_Model:QuestionnaireTemplate HasErrors="False" Title="Mattis sed dolor gravida">
+			<MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Sit vel litora"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Inceptos nam"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Interdum tincidunt luctus"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Lobortis feugiat magnis"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Eget tristique ultricies augue"/>
+			</MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+		</MVVM_Questionnaires_Model:QuestionnaireTemplate>
+		<MVVM_Questionnaires_Model:QuestionnaireTemplate HasErrors="False" Title="Platea parturient pharetra">
+			<MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Vestibulum mauris iaculis"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Mollis lacinia montes nostra nascetur"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Elit enim"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Laoreet adipiscing fames natoque posuere"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Potenti ornare"/>
+			</MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+		</MVVM_Questionnaires_Model:QuestionnaireTemplate>
+		<MVVM_Questionnaires_Model:QuestionnaireTemplate HasErrors="False" Title="Suscipit venenatis felis torquent hac">
+			<MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Primis placerat pretium rutrum"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Vestibulum vestibulum erat pulvinar sagittis"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Dis senectus adipiscing"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Eros nibh"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Sociosqu est sapien"/>
+			</MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+		</MVVM_Questionnaires_Model:QuestionnaireTemplate>
+		<MVVM_Questionnaires_Model:QuestionnaireTemplate HasErrors="False" Title="Semper vehicula quam volutpat">
+			<MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Ultrices ipsum nisi rhoncus"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Leo sodales"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Nisl nunc parturient vestibulum odio"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Viverra orci"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Justo vestibulum pede"/>
+			</MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+		</MVVM_Questionnaires_Model:QuestionnaireTemplate>
+		<MVVM_Questionnaires_Model:QuestionnaireTemplate HasErrors="False" Title="Sociis parturient cras lacus">
+			<MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Mus quis"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Aliquam integer"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Vulputate urna adipiscing quisque"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Nec maecenas"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Vivamus praesent non"/>
+			</MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+		</MVVM_Questionnaires_Model:QuestionnaireTemplate>
+		<MVVM_Questionnaires_Model:QuestionnaireTemplate HasErrors="False" Title="Consequat vestibulum eleifend facilisi">
+			<MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Lorem curabitur aliquam aliquet"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Taciti per accumsan phasellus"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Blandit sed tellus duis"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Magna massa nunc sem vestibulum"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Sit commodo bibendum dictumst"/>
+			</MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+		</MVVM_Questionnaires_Model:QuestionnaireTemplate>
+		<MVVM_Questionnaires_Model:QuestionnaireTemplate HasErrors="False" Title="Morbi inceptos turpis varius">
+			<MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Vel amet"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Tempor tempus conubia convallis"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Metus faucibus dignissim nam"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Adipiscing cubilia sed dapibus dis"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Parturient habitant ante arcu tortor"/>
+			</MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+		</MVVM_Questionnaires_Model:QuestionnaireTemplate>
+		<MVVM_Questionnaires_Model:QuestionnaireTemplate HasErrors="False" Title="Hac porta eget iaculis">
+			<MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Egestas est"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Neque aenean euismod feugiat"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Gravida vestibulum"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="False" QuestionText="Vestibulum adipiscing netus parturient"/>
+				<MVVM_Questionnaires_Model:QuestionTemplate HasErrors="True" QuestionText="Diam nulla"/>
+			</MVVM_Questionnaires_Model:QuestionnaireTemplate.Questions>
+		</MVVM_Questionnaires_Model:QuestionnaireTemplate>
+	</MVVM_Client_ViewModels:AvailableQuestionnaireTemplatesListViewModel.QuestionnaireTemplates>
+</MVVM_Client_ViewModels:AvailableQuestionnaireTemplatesListViewModel>

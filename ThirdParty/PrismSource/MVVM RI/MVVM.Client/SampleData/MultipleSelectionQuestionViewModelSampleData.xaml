@@ -1,0 +1,16 @@
+<MVVM_Client_ViewModels:MultipleSelectionQuestionViewModel 
+    xmlns:MVVM_Client_ViewModels="clr-namespace:MVVM.Client.ViewModels" 
+    xmlns:MVVM_Questionnaires_Model="clr-namespace:MVVM.Questionnaires.Model;assembly=MVVM.Questionnaires" 
+    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+    HasChanges="False" ResponseComplete="True">
+    <MVVM_Client_ViewModels:MultipleSelectionQuestionViewModel.Question>
+        <MVVM_Questionnaires_Model:MultipleSelectionQuestion QuestionText="Lorem dignissim morbi diam eget">
+            <MVVM_Questionnaires_Model:MultipleSelectionQuestion.Range>
+                <sys:String>Lorem dignissim morbi diam eget</sys:String>
+                <sys:String>Dictum arcu parturient</sys:String>
+                <sys:String>Bibendum dictumst vestibulum enim</sys:String>
+                <sys:String>Elit nulla elementum vestibulum</sys:String>
+            </MVVM_Questionnaires_Model:MultipleSelectionQuestion.Range>
+        </MVVM_Questionnaires_Model:MultipleSelectionQuestion>
+    </MVVM_Client_ViewModels:MultipleSelectionQuestionViewModel.Question>
+</MVVM_Client_ViewModels:MultipleSelectionQuestionViewModel>

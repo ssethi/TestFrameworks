@@ -1,0 +1,1 @@
+@call "Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop.sln"

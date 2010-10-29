@@ -1,0 +1,20 @@
+<StateBasedNavigation_ViewModels:ChatViewModel xmlns:StateBasedNavigation_ViewModels="clr-namespace:StateBasedNavigation.ViewModels" 
+                                             xmlns:Infra="clr-namespace:StateBasedNavigation.Infrastructure" xmlns:StateBasedNavigation_Model="clr-namespace:StateBasedNavigation.Model">
+    <StateBasedNavigation_ViewModels:ChatViewModel.ContactsView>
+        <Infra:DesignDataCollectionView>
+            <StateBasedNavigation_Model:Contact AvatarUri="/StateBasedNavigation;component/Avatars/MC900432625.PNG" Name="Integer etiam fusce" PersonalMessage="Lorem nullam vestibulum"/>
+            <StateBasedNavigation_Model:Contact AvatarUri="" Name="Faucibus nunc amet" PersonalMessage="Fames cursus ante"/>
+            <StateBasedNavigation_Model:Contact AvatarUri="" Name="Consequat sed dis diam convallis" PersonalMessage="Habitant lorem aliquam"/>
+            <StateBasedNavigation_Model:Contact AvatarUri="/StateBasedNavigation;component/Avatars/MC900432625.PNG" Name="Dignissim aliquet" PersonalMessage="Blandit adipiscing inceptos"/>
+            <StateBasedNavigation_Model:Contact AvatarUri="/StateBasedNavigation;component/Avatars/MC900433938.PNG" Name="Parturient lectus eget elementum" PersonalMessage="Morbi mus commodo"/>
+            <StateBasedNavigation_Model:Contact AvatarUri="" Name="Nulla parturient accumsan" PersonalMessage="Aptent bibendum proin vestibulum"/>
+            <StateBasedNavigation_Model:Contact AvatarUri="" Name="Phasellus nam dolor quisque" PersonalMessage="Vivamus duis vestibulum"/>
+            <StateBasedNavigation_Model:Contact AvatarUri="/StateBasedNavigation;component/Avatars/MC900433938.PNG" Name="Libero vestibulum adipiscing" PersonalMessage="Neque ligula facilisis cubilia dapibus"/>
+            <StateBasedNavigation_Model:Contact AvatarUri="" Name="Nulla non porta" PersonalMessage="Fermentum vestibulum enim litora"/>
+            <StateBasedNavigation_Model:Contact AvatarUri="" Name="Nibh euismod" PersonalMessage="Vestibulum adipiscing purus"/>
+        </Infra:DesignDataCollectionView>
+    </StateBasedNavigation_ViewModels:ChatViewModel.ContactsView>
+    <StateBasedNavigation_ViewModels:ChatViewModel.CurrentContact>
+        <StateBasedNavigation_Model:Contact AvatarUri="/StateBasedNavigation;component/Avatars/MC900432625.PNG" Name="Velit nisi luctus pharetra" PersonalMessage="Placerat pulvinar"/>
+    </StateBasedNavigation_ViewModels:ChatViewModel.CurrentContact>
+</StateBasedNavigation_ViewModels:ChatViewModel>

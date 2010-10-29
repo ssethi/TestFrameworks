@@ -1,0 +1,51 @@
+﻿<UserControl x:Class="MVVM.Client.Views.NumericQuestionView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"      
+    xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions"
+    xmlns:prism="http://www.codeplex.com/prism" xmlns:Behaviors="clr-namespace:MVVM.Client.Infrastructure.Behaviors" xmlns:GuidanceTools="clr-namespace:Microsoft.Pratices.Prism.GuidanceTools;assembly=Microsoft.Pratices.Prism.GuidanceTools" mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400"
+    d:DataContext="{d:DesignData /SampleData/NumericQuestionViewModelSampleData.xaml}">
+
+    <Grid Margin="5" d:DesignWidth="431" d:DesignHeight="353">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <i:Interaction.Triggers>
+            <!-- Feed any binding error into the ViewModel -->
+            <ei:PropertyChangedTrigger Binding="{Binding (Validation.HasError), ElementName=textBox}">
+                <ei:ChangePropertyAction PropertyName="HasBindingError" TargetObject="{Binding}"
+                                         Value="{Binding (Validation.HasError), ElementName=textBox}"/>
+            </ei:PropertyChangedTrigger>
+        </i:Interaction.Triggers>
+
+        <TextBlock Grid.Column="0" Grid.Row="0" Text="{Binding Question.QuestionText}" Style="{StaticResource QuestionLabelStyle}" />
+        <GuidanceTools:InfoTipToggleButton  Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left">
+            <StackPanel MaxWidth="500">
+                <TextBlock TextWrapping="Wrap"> This is a Numeric Question, a positive integer value is expected.</TextBlock>
+                <TextBlock TextWrapping="Wrap"> • The TextBox that gathers the response is bound to the Response property in the question.</TextBlock>
+                <TextBlock TextWrapping="Wrap"> • Should conversion errors occur, the binding to the question's Response property would not be updated. Because of this, any errors are feed into the NumericQuestionViewModel so it is aware that it is not valid.</TextBlock>
+                <TextBlock TextWrapping="Wrap"> • The UpdateTextBindingOnPropertyChanged behavior is used to update the binding whenever a new character is entered, so the input is validated on every entry.</TextBlock>
+            </StackPanel>
+        </GuidanceTools:InfoTipToggleButton>
+        <TextBox x:Name="textBox" Grid.Column="0" Grid.Row="1" AutomationProperties.AutomationId="NumericQuestionAutomationId">
+            <TextBox.Text>
+                <Binding Path="Question.Response" 
+                         Mode="TwoWay" UpdateSourceTrigger="Default" 
+                         ValidatesOnExceptions="True"/>
+            </TextBox.Text>
+            <i:Interaction.Behaviors>
+                <prism:UpdateTextBindingOnPropertyChanged/>
+            </i:Interaction.Behaviors>
+        </TextBox>
+    </Grid>
+</UserControl>

@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CAL", "CAL", "{74D897CB-F01C-4D03-AF89-5403239AC43E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Silverlight", "HelloWorld.Silverlight\HelloWorld.Silverlight.csproj", "{9D345E16-6A6F-41D9-B883-AE8498A8E42E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Silverlight.Web", "HelloWorld.Silverlight.Web\HelloWorld.Silverlight.Web.csproj", "{9A15085A-8AA0-469B-B93D-EB71ACE78AB6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B2CC15D4-9293-4164-B4AC-A3622D5952D0} = {B2CC15D4-9293-4164-B4AC-A3622D5952D0}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldModule", "HelloWorldModule\HelloWorldModule.csproj", "{B2CC15D4-9293-4164-B4AC-A3622D5952D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D345E16-6A6F-41D9-B883-AE8498A8E42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D345E16-6A6F-41D9-B883-AE8498A8E42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D345E16-6A6F-41D9-B883-AE8498A8E42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D345E16-6A6F-41D9-B883-AE8498A8E42E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A15085A-8AA0-469B-B93D-EB71ACE78AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A15085A-8AA0-469B-B93D-EB71ACE78AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A15085A-8AA0-469B-B93D-EB71ACE78AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A15085A-8AA0-469B-B93D-EB71ACE78AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CC15D4-9293-4164-B4AC-A3622D5952D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CC15D4-9293-4164-B4AC-A3622D5952D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CC15D4-9293-4164-B4AC-A3622D5952D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CC15D4-9293-4164-B4AC-A3622D5952D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+<RegionNavigation_Contacts_Model:Contact 
+    xmlns:RegionNavigation_Contacts_Model="clr-namespace:RegionNavigation.Contacts.Model" 
+    Address="Maecenas cras" 
+    AvatarUri="/RegionNavigation.Contacts;component/Avatars/MC900432625.PNG" 
+    Company="Curae donec" 
+    EmailAddress="Duis integer accumsan" 
+    Name="Vestibulum adipiscing"/>

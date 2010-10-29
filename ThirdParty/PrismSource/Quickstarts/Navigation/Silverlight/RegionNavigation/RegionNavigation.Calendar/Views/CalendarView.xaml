@@ -1,0 +1,55 @@
+﻿<UserControl
+    x:Class="RegionNavigation.Calendar.Views.CalendarView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk" 
+    xmlns:infrastructure="clr-namespace:RegionNavigation.Infrastructure;assembly=RegionNavigation.Infrastructure"
+    xmlns:cm="clr-namespace:System.ComponentModel;assembly=System.Windows"
+    xmlns:data="clr-namespace:System.Windows.Data;assembly=System.Windows"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="650" 
+    d:DataContext="{d:DesignData /SampleData/CalendarViewModelSampleData.xaml}">
+
+    <UserControl.Resources>
+        <CollectionViewSource x:Key="CalendarEntries" Source="{Binding Meetings}">
+            <CollectionViewSource.GroupDescriptions>
+                <data:PropertyGroupDescription PropertyName="StartTime.Date" />
+            </CollectionViewSource.GroupDescriptions>
+            <CollectionViewSource.SortDescriptions>
+                <cm:SortDescription PropertyName="StartTime"/>
+            </CollectionViewSource.SortDescriptions>
+        </CollectionViewSource>
+
+        <infrastructure:ObservableCommand x:Name="OpenMeetingEmailCommand" Value="{Binding OpenMeetingEmailCommand}"/>
+    </UserControl.Resources>
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <sdk:DataGrid ItemsSource="{Binding Source={StaticResource CalendarEntries}}" AutoGenerateColumns="False" IsReadOnly="True"
+                      HorizontalAlignment="Stretch" VerticalAlignment="Stretch" AutomationProperties.AutomationId="CalendarGrid">
+
+            <sdk:DataGrid.RowGroupHeaderStyles>
+                <Style TargetType="sdk:DataGridRowGroupHeader">
+                    <Setter Property="PropertyNameVisibility" Value="Collapsed"/>
+                </Style>
+            </sdk:DataGrid.RowGroupHeaderStyles>
+
+            <sdk:DataGrid.Columns>
+                <sdk:DataGridTemplateColumn Header="Subject" Width="*">
+                    <sdk:DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <HyperlinkButton Content="{Binding Subject}" 
+                                             Command="{Binding Value, Source={StaticResource OpenMeetingEmailCommand}}"
+                                             CommandParameter="{Binding}"
+                                             VerticalAlignment="Center" AutomationProperties.AutomationId="OpenMailHyperLink"/>
+                        </DataTemplate>
+                    </sdk:DataGridTemplateColumn.CellTemplate>
+                </sdk:DataGridTemplateColumn>
+                <sdk:DataGridTextColumn Header="Start" MinWidth="150" Binding="{Binding StartTime, StringFormat=g}" CanUserSort="False"/>
+                <sdk:DataGridTextColumn Header="End" MinWidth="150" Binding="{Binding EndTime, StringFormat=g}" CanUserSort="False"/>
+            </sdk:DataGrid.Columns>
+
+        </sdk:DataGrid>
+    </Grid>
+</UserControl>

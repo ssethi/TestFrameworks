@@ -1,0 +1,15 @@
+﻿<Modularity:ModuleCatalog xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+                          xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+                          xmlns:sys="clr-namespace:System;assembly=mscorlib" 
+                          xmlns:Modularity="clr-namespace:Microsoft.Practices.Prism.Modularity;assembly=Microsoft.Practices.Prism">
+    <Modularity:ModuleInfoGroup Ref="RegionNavigation.Contacts.xap" InitializationMode="WhenAvailable">
+        <Modularity:ModuleInfo ModuleName="RegionNavigation.Contacts" ModuleType="RegionNavigation.Contacts.ContactsModule, RegionNavigation.Contacts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    </Modularity:ModuleInfoGroup>
+    <Modularity:ModuleInfoGroup Ref="RegionNavigation.Email.xap" InitializationMode="WhenAvailable">
+        <Modularity:ModuleInfo ModuleName="RegionNavigation.Email" ModuleType="RegionNavigation.Email.EmailModule, RegionNavigation.Email, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    </Modularity:ModuleInfoGroup>
+    <Modularity:ModuleInfoGroup Ref="RegionNavigation.Calendar.xap" InitializationMode="WhenAvailable">
+        <Modularity:ModuleInfo ModuleName="RegionNavigation.Calendar" ModuleType="RegionNavigation.Calendar.CalendarModule, RegionNavigation.Calendar, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" >            
+        </Modularity:ModuleInfo>
+    </Modularity:ModuleInfoGroup>    
+</Modularity:ModuleCatalog>

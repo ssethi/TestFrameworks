@@ -1,0 +1,19 @@
+<RegionNavigation_Contacts_ViewModels:ContactsViewModel 
+    xmlns:RegionNavigation_Contacts_ViewModels="clr-namespace:RegionNavigation.Contacts.ViewModels" 
+    xmlns:RegionNavigation_Contacts_Model="clr-namespace:RegionNavigation.Contacts.Model"
+    xmlns:Infra="clr-namespace:RegionNavigation.Infrastructure;assembly=RegionNavigation.Infrastructure">
+    <RegionNavigation_Contacts_ViewModels:ContactsViewModel.Contacts>
+        <Infra:DesignDataCollectionView>
+            <RegionNavigation_Contacts_Model:Contact Address="Maecenas vestibulum adipiscing cras aenean" AvatarUri="Class parturient curae vestibulum donec" Company="Mauris nam nullam duis nunc" EmailAddress="Aptent sed curabitur phasellus consequat" Name="Dis vestibulum aliquam"/>
+            <RegionNavigation_Contacts_Model:Contact Address="Integer auctor amet" AvatarUri="Etiam ante" Company="Adipiscing convallis quisque" EmailAddress="Congue dignissim est cursus praesent" Name="Vivamus hac"/>
+            <RegionNavigation_Contacts_Model:Contact Address="Elementum dictum arcu" AvatarUri="Leo accumsan" Company="Aliquam diam bibendum fusce aliquet" EmailAddress="Parturient vestibulum eget facilisis" Name="Fermentum fringilla"/>
+            <RegionNavigation_Contacts_Model:Contact Address="Blandit habitasse" AvatarUri="Lorem lectus dictumst elit vestibulum" Company="Eleifend libero enim" EmailAddress="Hendrerit adipiscing erat" Name="Morbi facilisi ligula"/>
+            <RegionNavigation_Contacts_Model:Contact Address="Himenaeos mus parturient nulla faucibus" AvatarUri="Nec eros" Company="Vestibulum proin habitant vestibulum" EmailAddress="Imperdiet augue" Name="Adipiscing commodo inceptos"/>
+            <RegionNavigation_Contacts_Model:Contact Address="Interdum parturient" AvatarUri="Conubia lobortis litora nibh" Company="Luctus nascetur cubilia magnis" EmailAddress="Dapibus mattis malesuada nisi" Name="Mauris vestibulum"/>
+            <RegionNavigation_Contacts_Model:Contact Address="Vestibulum egestas non" AvatarUri="Nisl penatibus mollis" Company="Nunc montes euismod" EmailAddress="Nostra per adipiscing odio orci" Name="Dolor feugiat pharetra"/>
+            <RegionNavigation_Contacts_Model:Contact Address="Pede fames felis porttitor" AvatarUri="Sed parturient" Company="Placerat pulvinar ipsum" EmailAddress="Tincidunt quam ornare sagittis quis" Name="Sem urna sit vestibulum"/>
+            <RegionNavigation_Contacts_Model:Contact Address="Tristique ultricies justo venenatis" AvatarUri="Cras senectus vel" Company="Nam sed dis platea" EmailAddress="Primis lacus" Name="Duis est"/>
+            <RegionNavigation_Contacts_Model:Contact Address="Vulputate sociosqu vestibulum nunc" AvatarUri="Amet adipiscing gravida" Company="Rutrum iaculis" EmailAddress="Lacinia suscipit hac" Name="Leo curabitur lorem mus"/>
+        </Infra:DesignDataCollectionView>
+    </RegionNavigation_Contacts_ViewModels:ContactsViewModel.Contacts>
+</RegionNavigation_Contacts_ViewModels:ContactsViewModel>

@@ -1,0 +1,1 @@
+@call "Quickstarts\Modularity\Desktop\ModularityWithMef\ModularityWithMef.Desktop.sln"

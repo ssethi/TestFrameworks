@@ -1,0 +1,9 @@
+<RegionNavigation_Email_ViewModels:ComposeEmailViewModel xmlns:RegionNavigation_Email_ViewModels="clr-namespace:RegionNavigation.Email.ViewModels" xmlns:RegionNavigation_Email_Model="clr-namespace:RegionNavigation.Email.Model" xmlns:System="clr-namespace:System;assembly=mscorlib" SendState="Nullam ante">
+	<RegionNavigation_Email_ViewModels:ComposeEmailViewModel.EmailDocument>
+		<RegionNavigation_Email_Model:EmailDocument From="Nam aenean class maecenas" Subject="Aliquam sed curabitur" Text="Cras mauris phasellus duis" To="Nunc amet dis vestibulum">
+			<RegionNavigation_Email_Model:EmailDocument.Id>
+				<System:Guid/>
+			</RegionNavigation_Email_Model:EmailDocument.Id>
+		</RegionNavigation_Email_Model:EmailDocument>
+	</RegionNavigation_Email_ViewModels:ComposeEmailViewModel.EmailDocument>
+</RegionNavigation_Email_ViewModels:ComposeEmailViewModel>

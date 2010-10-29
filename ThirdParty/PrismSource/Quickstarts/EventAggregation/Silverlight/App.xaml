@@ -1,0 +1,95 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="EventAggregation.App">
+    <Application.Resources>
+        <!-- NormalBrush is used as the Background for SimpleButton, SimpleRepeatButton -->
+        <LinearGradientBrush x:Key="NormalBrush" EndPoint="0,1" StartPoint="0,0">
+            <GradientStop Color="#EEE" Offset="0.0"/>
+            <GradientStop Color="#CCC" Offset="1.0"/>
+        </LinearGradientBrush>
+        <LinearGradientBrush x:Key="NormalBorderBrush" EndPoint="0,1" StartPoint="0,0">
+            <GradientStop Color="#CCC" Offset="0.0"/>
+            <GradientStop Color="#444" Offset="1.0"/>
+        </LinearGradientBrush>
+
+        <!-- Used for background of ScrollViewer, TreeView, ListBox, Expander, TextBox, Tab Control -->
+        <SolidColorBrush x:Key="WindowBackgroundBrush" Color="#FFF"/>
+
+        <!-- Used for Checkmark, Radio button, TreeViewItem, Expander ToggleButton glyphs -->
+        <SolidColorBrush x:Key="GlyphBrush" Color="#444"/>
+        <SolidColorBrush x:Key="SolidBorderBrush" Color="#888"/>
+
+        <!-- Simple Button - This control sets brushes on each state. Note that these brushes must be listed above since they are static resources -->
+        <Style x:Key="SimpleButton" TargetType="Button" >
+            <!--<Setter Property="FocusVisualStyle" Value="{StaticResource SimpleButtonFocusVisual}"/>-->
+            <Setter Property="Background" Value="{StaticResource NormalBrush}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource NormalBorderBrush}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+
+                        <!-- We use Grid as a root because it is easy to add more elements to customize the button -->
+                        <Grid x:Name="Grid">
+                            <Border x:Name="Border" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Padding="{TemplateBinding Padding}"/>
+
+                            <!-- Content Presenter is where the text content etc is placed by the control -->
+                            <!-- The bindings are useful so that the control can be parameterized without editing the template -->
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" />
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Simple ComboBox Toggle Button - This is used in ComboBox to expand and collapse the ComboBox Popup-->
+        <ControlTemplate x:Key="ComboBoxToggleButton" TargetType="ToggleButton">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="20"/>
+                </Grid.ColumnDefinitions>
+                <Rectangle Grid.ColumnSpan="2" HorizontalAlignment="Stretch" x:Name="Rectangle" VerticalAlignment="Stretch" Width="Auto" Height="Auto" RadiusX="5" RadiusY="5" Fill="{StaticResource NormalBrush}" Stroke="{StaticResource NormalBorderBrush}"/>
+                <Rectangle Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="Auto" Height="Auto" RadiusX="5" RadiusY="5" Fill="{StaticResource WindowBackgroundBrush}" Stroke="{StaticResource NormalBorderBrush}"/>
+                <Path Grid.Column="1" HorizontalAlignment="Center" x:Name="Arrow" VerticalAlignment="Center" Fill="{StaticResource GlyphBrush}" Data="M 0 0 L 4 4 L 8 0 Z"/>
+            </Grid>
+        </ControlTemplate>
+
+        <ControlTemplate x:Key="ComboBoxTextBox" TargetType="TextBox">
+            <!-- This must be named as PART_ContentHost -->
+            <Border x:Name="PART_ContentHost" Background="{TemplateBinding Background}"/>
+        </ControlTemplate>
+
+        <Style x:Key="SimpleComboBox" TargetType="ComboBox">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ComboBox">
+                        <Grid>
+                            <!-- The ToggleButton is databound to the ComboBox itself to toggle IsDropDownOpen -->
+                            <!--<ToggleButton Grid.Column="2" Template="{StaticResource ComboBoxToggleButton}" x:Name="ToggleButton" IsChecked="{Binding Path=IsDropDownOpen, Mode=TwoWay, RelativeSource={RelativeSource TemplatedParent}}" ClickMode="Press"/>-->
+                            <ToggleButton Grid.Column="2" Template="{StaticResource ComboBoxToggleButton}" x:Name="ToggleButton" ClickMode="Press"/>
+                            <ContentPresenter HorizontalAlignment="Left" Margin="3,3,23,3" x:Name="ContentSite" VerticalAlignment="Center" Content="{TemplateBinding SelectionBoxItem}" ContentTemplate="{TemplateBinding SelectionBoxItemTemplate}" IsHitTestVisible="False"/>
+
+                            <!-- The TextBox must be named PART_EditableTextBox or ComboBox will not recognize it -->
+                            <!--<TextBox Visibility="Collapsed"  Template="{StaticResource ComboBoxTextBox}" HorizontalAlignment="Left" Margin="3,3,23,3" x:Name="PART_EditableTextBox" Style="{x:Null}" VerticalAlignment="Center" Background="Transparent" IsReadOnly="{TemplateBinding IsReadOnly}"/>-->
+                            <TextBox Visibility="Collapsed"  Template="{StaticResource ComboBoxTextBox}" HorizontalAlignment="Left" Margin="3,3,23,3" x:Name="PART_EditableTextBox" Style="{x:Null}" VerticalAlignment="Center" Background="Transparent" />
+
+                            <!-- The Popup shows the list of items in the ComboBox. IsOpen is databound to IsDropDownOpen which is toggled via the ComboBoxToggleButton -->
+                            <Popup IsOpen="{TemplateBinding IsDropDownOpen}" VerticalAlignment="Bottom" x:Name="Popup">
+                                <Grid MaxHeight="{TemplateBinding MaxDropDownHeight}" MinWidth="{TemplateBinding ActualWidth}" x:Name="DropDown" >
+                                    <Border x:Name="DropDownBorder" Background="{StaticResource WindowBackgroundBrush}" BorderBrush="{StaticResource SolidBorderBrush}" BorderThickness="1"/>
+                                    <!--<ScrollViewer Margin="4,6,4,6" Style="{StaticResource SimpleScrollViewer}" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">-->
+                                    <ScrollViewer Margin="4,6,4,6" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+
+                                        <!-- The StackPanel is used to display the children by setting IsItemsHost to be True -->
+                                        <!--<StackPanel  IsItemsHost="True" KeyboardNavigation.DirectionalNavigation="Contained"/>-->
+
+                                    </ScrollViewer>
+                                </Grid>
+                            </Popup>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Application.Resources>
+</Application>

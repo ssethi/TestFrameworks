@@ -1,0 +1,88 @@
+﻿<UserControl x:Class="RealEstateListingViewer.Views.RealEstateListingView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:pie="clr-namespace:PieChartLibrary;assembly=PieChartLibrary"
+    xmlns:a="clr-namespace:System.Windows.Automation;assembly=System.Windows"
+    Width="600">
+    <Grid Background="White" Margin="10,0,10,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="200"/>
+            <RowDefinition Height="120"/>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width=".75*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <!--This is an example of downloading an image from the webserver. Unfortunately, there is no way of doing this nicer
+        I think due to a bug in silverlight 2 beta 2. -->
+        <Image Grid.Row="0" Grid.Column="2" HorizontalAlignment="Right" Source="http://localhost:10234/Images/CompanyLogo.jpg" ></Image>
+        
+        <StackPanel Grid.Row="1" Grid.Column="0" Orientation="Horizontal">
+            <TextBlock Text="{Binding Path=Address}" a:AutomationProperties.AutomationId="AddressAboveHouseImageTextBlock"/>
+            <TextBlock Text=", "/>
+            <TextBlock Text="{Binding Path=County}" a:AutomationProperties.AutomationId="CountyAboveHouseImageTextBlock" />
+            <TextBlock Text=", "/>
+            <TextBlock Text="{Binding Path=State}" a:AutomationProperties.AutomationId="StateAboveHouseImageTextBlock"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right">
+            <TextBlock Text="$ "/>
+            <TextBlock Text="{Binding Path=Price}" a:AutomationProperties.AutomationId="PriceTextBlock" />
+        </StackPanel>
+
+        <Border Grid.Row="2" Grid.ColumnSpan="2" BorderBrush="Black"  BorderThickness="1" Margin="0,5,0,5">
+            <Image Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Source="{Binding Path=PropertyImage}" a:AutomationProperties.AutomationId="PropertyImage"/>
+        </Border>
+
+        <StackPanel Grid.Row="3" Grid.Column="0">
+            <TextBlock Text="{Binding Address}" a:AutomationProperties.AutomationId="AddressBelowHouseImageTextBlock" />
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding County}" a:AutomationProperties.AutomationId="CountyBelowHouseImageTextBlock"  />
+                <TextBlock Text=", "/>
+                <TextBlock Text="{Binding State}" a:AutomationProperties.AutomationId="StateBelowHouseImageTextBlock" />
+                <TextBlock Text=" " />
+                <TextBlock Text="{Binding ZipCode}" a:AutomationProperties.AutomationId="ZipCodeTextBlock" />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <Border BorderBrush="Black" BorderThickness="1" Margin="5,5,5,5">
+                    <StackPanel>
+                        <Image Source="../Images/Bedrooms.jpg" Width="35" Height="35" a:AutomationProperties.AutomationId="BedroomsImage"/>
+                        <TextBlock HorizontalAlignment="Center" Text="{Binding Path=Bedrooms}" a:AutomationProperties.AutomationId="BedroomsTextBlock"/>
+                    </StackPanel>
+                </Border>
+                <Border BorderBrush="Black" BorderThickness="1" Margin="5,5,5,5">
+                    <StackPanel>
+                        <Image Source="../Images/Bathrooms.jpg" Width="35" Height="35" a:AutomationProperties.AutomationId="BathroomsImage"/>
+                        <TextBlock HorizontalAlignment="Center" Text="{Binding Path=Bathrooms}" a:AutomationProperties.AutomationId="BathroomsTextBlock"/> 
+                    </StackPanel>
+                </Border>
+                <Border BorderBrush="Black" BorderThickness="1" Margin="5,5,5,5">
+                    <StackPanel>
+                        <Image Source="../Images/Garage.jpg" Width="35" Height="35" a:AutomationProperties.AutomationId="GarageImage"/>
+                        <TextBlock HorizontalAlignment="Center" Text="{Binding Path=GarageSize}" a:AutomationProperties.AutomationId="GarageSizeTextBlock"/>
+                    </StackPanel>
+                </Border>
+                <Border BorderBrush="Black" BorderThickness="1" Margin="5,5,5,5">
+                    <StackPanel>
+                        <Image Source="../Images/Acreage.jpg" Width="35" Height="35" a:AutomationProperties.AutomationId="AcerageImage"/> 
+                        <TextBlock HorizontalAlignment="Center" Text="{Binding Path=Acreage}" a:AutomationProperties.AutomationId="AcerageTextBlock" />
+                    </StackPanel>
+                </Border>
+            </StackPanel>
+        </StackPanel>
+
+        <Border Grid.Row="3" Grid.Column="1" Grid.RowSpan="2" BorderBrush="Black" HorizontalAlignment="Right" VerticalAlignment="Top"  BorderThickness="1" Margin="10,10,10,10" Width="130" Height="200">
+            <pie:PieChart Center="60.0, 60.0" Radius="45.0" Sections="{Binding Path=Sections}" LabelsFontSize="10.0" StrokeThickness="1.0" />
+        </Border>
+
+        <StackPanel Grid.Row="4" Grid.Column="0">
+            <TextBlock Text="Description:" Margin="0,10,0,5" a:AutomationProperties.AutomationId="DescriptionLabelTextBlock" />
+            <TextBlock Text="{Binding Path=Description}" TextWrapping="Wrap" a:AutomationProperties.AutomationId="DescriptionTextBlock" />
+        </StackPanel>
+    </Grid>
+</UserControl>

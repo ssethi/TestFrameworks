@@ -1,0 +1,15 @@
+Z:\TestPrismFramework\PrismFrameworkSourceDrop9\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorldModule\bin\Debug\HelloWorldModule.dll
+Z:\TestPrismFramework\PrismFrameworkSourceDrop9\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorldModule\bin\Debug\HelloWorldModule.pdb
+Z:\TestPrismFramework\PrismFrameworkSourceDrop9\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorldModule\bin\Debug\Microsoft.Practices.Prism.dll
+Z:\TestPrismFramework\PrismFrameworkSourceDrop9\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorldModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+Z:\TestPrismFramework\PrismFrameworkSourceDrop9\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorldModule\bin\Debug\Microsoft.Practices.Prism.pdb
+Z:\TestPrismFramework\PrismFrameworkSourceDrop9\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorldModule\bin\Debug\Microsoft.Practices.Prism.xml
+Z:\TestPrismFramework\PrismFrameworkSourceDrop9\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorldModule\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+Z:\TestPrismFramework\PrismFrameworkSourceDrop9\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorldModule\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+Z:\TestPrismFramework\PrismFrameworkSourceDrop9\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorldModule\obj\Debug\ResolveAssemblyReference.cache
+Z:\TestPrismFramework\PrismFrameworkSourceDrop9\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorldModule\obj\Debug\Views\HelloWorldView.baml
+Z:\TestPrismFramework\PrismFrameworkSourceDrop9\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorldModule\obj\Debug\Views\HelloWorldView.g.cs
+Z:\TestPrismFramework\PrismFrameworkSourceDrop9\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorldModule\obj\Debug\HelloWorldModule_MarkupCompile.cache
+Z:\TestPrismFramework\PrismFrameworkSourceDrop9\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorldModule\obj\Debug\HelloWorldModule.g.resources
+Z:\TestPrismFramework\PrismFrameworkSourceDrop9\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorldModule\obj\Debug\HelloWorldModule.dll
+Z:\TestPrismFramework\PrismFrameworkSourceDrop9\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorldModule\obj\Debug\HelloWorldModule.pdb

@@ -1,0 +1,1 @@
+@call "Quickstarts\Navigation\Silverlight\RegionNavigation\RegionNavigation.Silverlight.sln"

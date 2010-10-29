@@ -1,0 +1,1 @@
+@call "Quickstarts\BasicMVVM\BasicMVVMQuickstart.sln"

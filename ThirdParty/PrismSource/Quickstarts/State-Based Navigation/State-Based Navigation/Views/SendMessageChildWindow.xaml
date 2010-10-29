@@ -1,0 +1,55 @@
+﻿<controls:ChildWindow
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:controls="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls"
+    xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions" 
+    xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+    xmlns:System="clr-namespace:System;assembly=mscorlib" 
+    x:Name="childWindow" 
+    x:Class="StateBasedNavigation.Views.SendMessageChildWindow"
+    Width="400" Height="300" AutomationProperties.AutomationId="SendMessageChildWindow">
+    <i:Interaction.Triggers>
+        <ei:PropertyChangedTrigger Binding="{Binding Result}">
+            <ei:ChangePropertyAction TargetObject="{Binding ElementName=childWindow}" PropertyName="DialogResult" Value="{Binding Result}"/>
+        </ei:PropertyChangedTrigger>
+    </i:Interaction.Triggers>
+
+    <controls:ChildWindow.Title>
+        <TextBlock><Run Text="Send message to "/><Run Text="{Binding Contact.Name}"/></TextBlock>
+    </controls:ChildWindow.Title>
+
+    <Grid x:Name="LayoutRoot" Margin="2">
+
+        <ContentControl 
+            x:Name="UserInput"
+            HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch">
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <TextBox 
+                    Text="{Binding Message, Mode=TwoWay}"
+                    HorizontalAlignment="Stretch" Margin="12,12,12,12" VerticalAlignment="Stretch" AutomationProperties.AutomationId="TextBoxMessage"/>
+
+                <Button x:Name="CancelButton" Content="Cancel" Width="75" Height="23" HorizontalAlignment="Right" Margin="0,12,0,0" Grid.Row="1" >
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="Click">
+                            <ei:ChangePropertyAction TargetObject="{Binding}" PropertyName="Result" Value="False"/>
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+                </Button>
+                <Button x:Name="OKButton" Content="OK" Width="75" Height="23" HorizontalAlignment="Right" Margin="0,12,79,0" Grid.Row="1" >
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="Click">
+                            <ei:ChangePropertyAction TargetObject="{Binding}" PropertyName="Result" Value="True"/>
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+                </Button>
+            </Grid>
+        </ContentControl>
+
+    </Grid>
+</controls:ChildWindow>

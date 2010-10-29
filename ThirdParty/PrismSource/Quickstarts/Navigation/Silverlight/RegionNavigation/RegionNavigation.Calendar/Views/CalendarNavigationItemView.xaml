@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="RegionNavigation.Calendar.Views.CalendarNavigationItemView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:GuidanceTools="clr-namespace:Microsoft.Pratices.Prism.GuidanceTools;assembly=Microsoft.Pratices.Prism.GuidanceTools" 
+             d:DesignHeight="300" d:DesignWidth="400">
+
+    <Grid x:Name="LayoutRoot">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <RadioButton x:Name="NavigateToCalendarRadioButton" GroupName="MainNavigation" Click="Button_Click" Style="{StaticResource MainViewRadioButtonStyle}" AutomationProperties.AutomationId="CalendarRadioButton">Calendar</RadioButton>
+        <GuidanceTools:InfoTipToggleButton Grid.Column="1">
+            <StackPanel MinWidth="100" MinHeight="24" MaxWidth="400">
+                <TextBlock TextWrapping="Wrap">This button demonstrates navigation to a view that that supports cross-navigation to another area.</TextBlock>
+            </StackPanel>
+        </GuidanceTools:InfoTipToggleButton>
+    </Grid>
+</UserControl>

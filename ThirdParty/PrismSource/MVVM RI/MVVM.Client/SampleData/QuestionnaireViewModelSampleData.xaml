@@ -1,0 +1,34 @@
+<MVVM_Client_ViewModels:QuestionnaireViewModel 
+    xmlns:MVVM_Client_ViewModels="clr-namespace:MVVM.Client.ViewModels" 
+    xmlns:MVVM_Questionnaires_Model="clr-namespace:MVVM.Questionnaires.Model;assembly=MVVM.Questionnaires" 
+    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+    TotalQuestions="94" 
+    UnansweredQuestions="57">
+    <MVVM_Client_ViewModels:QuestionnaireViewModel.Questions>
+        <MVVM_Client_ViewModels:OpenQuestionViewModel HasChanges="False" ResponseComplete="True">
+            <MVVM_Client_ViewModels:OpenQuestionViewModel.Question>
+                <MVVM_Questionnaires_Model:OpenQuestion QuestionText="Nam adipiscing auctor congue convallis" Response="Nullam aptent phasellus vestibulum"/>
+            </MVVM_Client_ViewModels:OpenQuestionViewModel.Question>
+        </MVVM_Client_ViewModels:OpenQuestionViewModel>
+        <MVVM_Client_ViewModels:NumericQuestionViewModel HasChanges="False" ResponseComplete="True">
+            <MVVM_Client_ViewModels:NumericQuestionViewModel.Question>
+                <MVVM_Questionnaires_Model:NumericQuestion QuestionText="Praesent amet fusce ante accumsan" Response="15"/>
+            </MVVM_Client_ViewModels:NumericQuestionViewModel.Question>
+        </MVVM_Client_ViewModels:NumericQuestionViewModel>
+        <MVVM_Client_ViewModels:MultipleSelectionQuestionViewModel HasChanges="False" ResponseComplete="True">
+            <MVVM_Client_ViewModels:MultipleSelectionQuestionViewModel.Question>
+                <MVVM_Questionnaires_Model:MultipleSelectionQuestion QuestionText="Lorem dignissim morbi diam eget">
+                    <MVVM_Questionnaires_Model:MultipleSelectionQuestion.Range>
+                        <sys:String>Lorem dignissim morbi diam eget</sys:String>
+                        <sys:String>Dictum arcu parturient</sys:String>
+                        <sys:String>Bibendum dictumst vestibulum enim</sys:String>
+                        <sys:String>Elit nulla elementum vestibulum</sys:String>
+                    </MVVM_Questionnaires_Model:MultipleSelectionQuestion.Range>
+                </MVVM_Questionnaires_Model:MultipleSelectionQuestion>
+            </MVVM_Client_ViewModels:MultipleSelectionQuestionViewModel.Question>
+        </MVVM_Client_ViewModels:MultipleSelectionQuestionViewModel>
+    </MVVM_Client_ViewModels:QuestionnaireViewModel.Questions>
+    <MVVM_Client_ViewModels:QuestionnaireViewModel.Questionnaire>
+        <MVVM_Questionnaires_Model:Questionnaire Age="15" Name="Praesent amet fusce ante accumsan"/>
+    </MVVM_Client_ViewModels:QuestionnaireViewModel.Questionnaire>
+</MVVM_Client_ViewModels:QuestionnaireViewModel>
