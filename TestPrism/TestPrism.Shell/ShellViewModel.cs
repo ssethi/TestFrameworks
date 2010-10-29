@@ -31,10 +31,7 @@ namespace TestPrism.Shell
 			WorkspaceDocumentController = container.Resolve<IDocumentController>(Controllers.WorkspaceDocumentController);
 						
 			CloseCurrentDocumentCommand = new DelegateCommand<object>(CloseCurrentDocument, CanCloseCurrentDocument);
-			CloseDocumentCommand = new DelegateCommand<DocumentBase>(DocumentController.CloseDocument);
-
-			//DocumentController.DocumentOpened += new EventHandler<DataEventArgs<DocumentBase>>(DoReevaluateCloseCurrentDocumentCommand);
-			//DocumentController.DocumentClosed += new EventHandler<DataEventArgs<DocumentBase>>(DoReevaluateCloseCurrentDocumentCommand);
+			CloseDocumentCommand = new DelegateCommand<DocumentBase>(DocumentController.CloseDocument);			
 		}
 
 		#region Commands
@@ -59,11 +56,7 @@ namespace TestPrism.Shell
 		private bool CanCloseCurrentDocument(object arg)
 		{
 			return DocumentController.CurrentDocument != null;
-		}
-		//private void DoReevaluateCloseCurrentDocumentCommand(object sender, DataEventArgs<DocumentBase> e)
-		//{
-		//    CloseCurrentDocumentCommand.RaiseCanExecuteChanged();
-		//}		
+		}		
 		# endregion
 
 	}

@@ -62,7 +62,6 @@
     </ApplicationDefinition>
     <Compile Include="DocumentModel\DocumentController.cs" />
     <Compile Include="ShellViewModel.cs" />
-    <Compile Include="Utility\ListProcessAppDomains.cs" />
     <Page Include="Shell.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
