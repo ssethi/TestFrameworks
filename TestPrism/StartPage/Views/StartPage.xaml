@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="StartPageModule.Views.StartPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d">
+                      
+    <DockPanel>
+        <DockPanel DockPanel.Dock="Bottom">
+            <Button Content="Check Appdomain" 
+                   DockPanel.Dock="Left"
+                   Click="CheckAppDomain_Click"/>
+            <CheckBox DockPanel.Dock="Right"
+                  IsChecked="True"
+                  FlowDirection="RightToLeft"
+                  HorizontalAlignment="Right"
+                  Content="Show on application startup"/>
+        </DockPanel>
+        <WebBrowser x:Name="startpagebrowser" 
+                    DockPanel.Dock="Top"
+                    Loaded="startpagebrowser_Loaded"/>
+       
+    </DockPanel>
+</UserControl>

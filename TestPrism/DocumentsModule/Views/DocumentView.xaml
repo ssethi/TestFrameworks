@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="DocumentsModule.Views.DocumentView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="34*" />
+            <RowDefinition Height="240*" />
+            <RowDefinition Height="26*" />
+        </Grid.RowDefinitions>
+        <Label Content="{Binding Path=Document.Title}"                             
+               Margin="2,2,2,2" 
+               Name="label1" 
+               MouseDoubleClick="label1_MouseDoubleClick"
+               VerticalAlignment="Center" 
+               HorizontalAlignment="Center"/>
+        <GroupBox Grid.Row="1" Header="Content" Name="groupBox1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <ScrollViewer>
+                <TextBox Text="{Binding Path=Document.Content}"
+                         AcceptsReturn="True"
+                         TextWrapping="WrapWithOverflow"
+                         SpellCheck.IsEnabled="True"
+                         IsReadOnly="True"
+                         AcceptsTab="True"/>
+            </ScrollViewer>
+        </GroupBox>
+        <DockPanel Grid.Row="2">
+            <Button Content="Check Appdomain" 
+                   DockPanel.Dock="Right"
+                    Margin="0"
+                    HorizontalAlignment="Right"
+                    VerticalAlignment="Bottom"
+                   Click="CheckAppDomain_Click"/>
+        </DockPanel>
+    </Grid>
+</UserControl>
